@@ -6,6 +6,7 @@ import streamlit as st
 from tensorflow.keras.applications.mobilenet_v2 import MobileNetV2, preprocess_input
 from tensorflow.keras.preprocessing import image
 from tensorflow.keras.models import Model
+from tensorflow.keras.layers import GlobalAveragePooling2D # <-- IMPORT THIS
 
 # Import configuration
 from config import IMG_SIZE
@@ -13,16 +14,22 @@ from config import IMG_SIZE
 @st.cache_resource
 def load_model():
     """
-    Loads the pre-trained MobileNetV2 model, modified to output feature vectors.
-    The model is cached using Streamlit's caching to prevent reloading on every run.
+    Loads the pre-trained MobileNetV2 model and adds a Global Average Pooling layer.
+    This is more robust than relying on a specific layer name.
     """
     base_model = MobileNetV2(
         weights='imagenet',
         include_top=False, # Exclude the final classification layer
         input_shape=(IMG_SIZE[0], IMG_SIZE[1], 3)
     )
-    # Define the model to use the base model's input and the global average pooling output
-    model = Model(inputs=base_model.input, outputs=base_model.get_layer('global_average_pooling2d').output)
+    
+    # --- START: CORRECTION ---
+    # Create a new model by adding a GlobalAveragePooling2D layer to the base model
+    x = base_model.output
+    x = GlobalAveragePooling2D()(x)
+    model = Model(inputs=base_model.input, outputs=x)
+    # --- END: CORRECTION ---
+    
     return model
 
 def _preprocess_image(img_path_or_buffer):
@@ -39,7 +46,7 @@ def extract_features(model, img_path_or_buffer):
     Extracts a feature vector (embedding) from a preprocessed image using the model.
     """
     preprocessed_img = _preprocess_image(img_path_or_buffer)
-    features = model.predict(preprocessed_img, verbose=0) # Set verbose=0 to hide prediction progress bar
+    features = model.predict(preprocessed_img, verbose=0)
     # Normalize the feature vector for effective cosine similarity comparison
     normalized_features = features / np.linalg.norm(features)
     return normalized_features.flatten()
