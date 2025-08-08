@@ -1,0 +1,114 @@
+[
+    {
+        "id": "shoe001",
+        "name": "Running Shoe",
+        "category": "Shoes",
+        "price": 59.99,
+        "image_path": "product_data\\product_images\\shoe001.jpg"
+    },
+    {
+        "id": "shoe002",
+        "name": "Casual Sneaker",
+        "category": "Shoes",
+        "price": 75.0,
+        "image_path": "product_data\\product_images\\shoe002.jpg"
+    },
+    {
+        "id": "shoe003",
+        "name": "Hiking Boot",
+        "category": "Shoes",
+        "price": 120.5,
+        "image_path": "product_data\\product_images\\shoe003.jpg"
+    },
+    {
+        "id": "shoe004",
+        "name": "Formal Oxford",
+        "category": "Shoes",
+        "price": 99.99,
+        "image_path": "product_data\\product_images\\shoe004.jpg"
+    },
+    {
+        "id": "bag001",
+        "name": "Leather Backpack",
+        "category": "Bags",
+        "price": 89.99,
+        "image_path": "product_data\\product_images\\bag001.jpg"
+    },
+    {
+        "id": "bag002",
+        "name": "Canvas Tote",
+        "category": "Bags",
+        "price": 25.0,
+        "image_path": "product_data\\product_images\\bag002.jpg"
+    },
+    {
+        "id": "bag003",
+        "name": "Travel Duffel",
+        "category": "Bags",
+        "price": 65.5,
+        "image_path": "product_data\\product_images\\bag003.jpg"
+    },
+    {
+        "id": "bag004",
+        "name": "Laptop Messenger",
+        "category": "Bags",
+        "price": 45.0,
+        "image_path": "product_data\\product_images\\bag004.jpg"
+    },
+    {
+        "id": "watch001",
+        "name": "Classic Chronograph",
+        "category": "Watches",
+        "price": 250.0,
+        "image_path": "product_data\\product_images\\watch001.jpg"
+    },
+    {
+        "id": "watch002",
+        "name": "Digital Sport Watch",
+        "category": "Watches",
+        "price": 49.99,
+        "image_path": "product_data\\product_images\\watch002.jpg"
+    },
+    {
+        "id": "watch003",
+        "name": "Minimalist Analog",
+        "category": "Watches",
+        "price": 150.0,
+        "image_path": "product_data\\product_images\\watch003.jpg"
+    },
+    {
+        "id": "watch004",
+        "name": "Smart Watch",
+        "category": "Watches",
+        "price": 300.0,
+        "image_path": "product_data\\product_images\\watch004.jpg"
+    },
+    {
+        "id": "chair001",
+        "name": "Ergonomic Office Chair",
+        "category": "Furniture",
+        "price": 220.0,
+        "image_path": "product_data\\product_images\\chair001.jpg"
+    },
+    {
+        "id": "chair002",
+        "name": "Modern Accent Chair",
+        "category": "Furniture",
+        "price": 180.75,
+        "image_path": "product_data\\product_images\\chair002.jpg"
+    },
+    {
+        "id": "chair003",
+        "name": "Wooden Dining Chair",
+        "category": "Furniture",
+        "price": 75.0,
+        "image_path": "product_data\\product_images\\chair003.jpg"
+    },
+    {
+        "id": "chair004",
+        "name": "Lounge Recliner",
+        "category": "Furniture",
+        "price": 350.0,
+        "image_path": "product_data\\product_images\\chair004.jpg"
+    }
+]

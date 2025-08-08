@@ -3,10 +3,10 @@
 
 import numpy as np
 import streamlit as st
-from tensorflow.keras.applications.mobilenet_v2 import MobileNetV2, preprocess_input
-from tensorflow.keras.preprocessing import image
-from tensorflow.keras.models import Model
-from tensorflow.keras.layers import GlobalAveragePooling2D # <-- IMPORT THIS
+from keras.applications.mobilenet_v2 import MobileNetV2, preprocess_input
+from keras.preprocessing import image
+from keras.models import Model
+from keras.layers import GlobalAveragePooling2D # <-- IMPORT THIS
 
 # Import configuration
 from config import IMG_SIZE
