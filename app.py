@@ -26,10 +26,17 @@ def main():
     # --- LOAD MODEL AND DATA ---
     model = load_model()
 
-    # Check if dataset and embeddings exist; if not, generate them.
-    if not os.path.exists(METADATA_FILE) or not os.path.exists(EMBEDDINGS_FILE):
+    # --- START: CORRECTION ---
+    # This logic is now non-destructive.
+    # Step 1: Create the default dataset if the JSON file doesn't exist.
+    if not os.path.exists(METADATA_FILE):
         generate_mock_dataset()
+
+    # Step 2: Generate embeddings if the embeddings file doesn't exist.
+    # This allows users to add to products.json and just delete embeddings.npy to update.
+    if not os.path.exists(EMBEDDINGS_FILE):
         generate_embeddings(model)
+    # --- END: CORRECTION ---
 
     # Load the pre-computed embeddings and product metadata
     all_features = np.load(EMBEDDINGS_FILE)
@@ -62,7 +69,7 @@ def main():
             cols = st.columns(NUM_SIMILAR_PRODUCTS)
             for i, (product, score) in enumerate(similar_products[:NUM_SIMILAR_PRODUCTS]):
                 with cols[i]:
-                    st.image(product['image_path'], caption=f"Similarity: {score:.2%}", use_column_width=True)
+                    st.image(product['image_path'], caption=f"Similarity: {score:.2%}", use_container_width=True)
                     st.markdown(f"**{product['name']}**")
                     st.markdown(f"**Price:** ${product['price']:.2f}")
     else:

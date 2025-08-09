@@ -84,6 +84,13 @@
         "image_path": "product_data\\product_images\\watch004.jpg"
     },
     {
+    "id": "watch005",
+    "name": "Apple Watch",
+    "category": "Watches",
+    "price": 199.99,
+    "image_path": "product_data\\product_images\\watch005.jpeg"
+    },
+    {
         "id": "chair001",
         "name": "Ergonomic Office Chair",
         "category": "Furniture",
@@ -111,4 +118,5 @@
         "price": 350.0,
         "image_path": "product_data\\product_images\\chair004.jpg"
     }
+
 ]
