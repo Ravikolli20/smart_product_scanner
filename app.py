@@ -23,20 +23,19 @@ def main():
     st.title("🛍️ Smart Product Scanner")
     st.markdown("Upload or take a picture of a product to find similar items in our catalog.")
 
+    # --- INITIALIZE SESSION STATE ---
+    # This is crucial for conditionally rendering the camera widget.
+    if 'show_camera' not in st.session_state:
+        st.session_state.show_camera = False
+
     # --- LOAD MODEL AND DATA ---
     model = load_model()
 
-    # --- START: CORRECTION ---
-    # This logic is now non-destructive.
-    # Step 1: Create the default dataset if the JSON file doesn't exist.
+    # This logic is non-destructive.
     if not os.path.exists(METADATA_FILE):
         generate_mock_dataset()
-
-    # Step 2: Generate embeddings if the embeddings file doesn't exist.
-    # This allows users to add to products.json and just delete embeddings.npy to update.
     if not os.path.exists(EMBEDDINGS_FILE):
         generate_embeddings(model)
-    # --- END: CORRECTION ---
 
     # Load the pre-computed embeddings and product metadata
     all_features = np.load(EMBEDDINGS_FILE)
@@ -44,20 +43,47 @@ def main():
         product_metadata = json.load(f)
 
     # --- USER INPUT ---
-    st.sidebar.header("Upload or Capture Image")
-    uploaded_file = st.sidebar.file_uploader("Choose an image...", type=["jpg", "jpeg", "png"])
-    camera_input = st.sidebar.camera_input("...or use your camera")
+    st.sidebar.header("Choose Input Method")
+    
+    # Use columns for a cleaner layout
+    col1, col2 = st.sidebar.columns(2)
 
+    with col1:
+        uploaded_file = st.file_uploader(
+            "Upload Image",
+            type=["jpg", "jpeg", "png"],
+            label_visibility="collapsed"
+        )
+
+    with col2:
+        # This button will set the session state to show the camera
+        if st.button("📸 Use Camera"):
+            st.session_state.show_camera = True
+
+    # --- CONDITIONAL CAMERA INPUT ---
+    camera_input = None
+    if st.session_state.show_camera:
+        camera_input = st.camera_input(
+            "Take a picture of the product.",
+            label_visibility="collapsed"
+        )
+        st.sidebar.info(
+            "We need camera access for a one-time photo. "
+            "Your image is not processed or stored on our servers."
+        )
+
+    # Determine which input was used
     input_image = uploaded_file or camera_input
 
     # --- PROCESSING AND DISPLAYING RESULTS ---
     if input_image is not None:
-        # Display the user's query image
+        # Important: Turn off the camera view once an image is captured or uploaded
+        st.session_state.show_camera = False
+
         st.subheader("Your Query Image")
         query_image_display = Image.open(input_image)
         st.image(query_image_display, width=250, caption="This is the product you're looking for.")
 
-        # Find and display similar products
         with st.spinner("Analyzing image and finding similar products..."):
             input_features = extract_features(model, input_image)
             similar_products = find_similar_products(input_features, all_features, product_metadata)
@@ -65,7 +91,6 @@ def main():
             st.subheader(f"Top {NUM_SIMILAR_PRODUCTS} Similar Products Found")
             st.markdown("---")
 
-            # Display results in columns
             cols = st.columns(NUM_SIMILAR_PRODUCTS)
             for i, (product, score) in enumerate(similar_products[:NUM_SIMILAR_PRODUCTS]):
                 with cols[i]:
@@ -73,7 +98,8 @@ def main():
                     st.markdown(f"**{product['name']}**")
                     st.markdown(f"**Price:** ${product['price']:.2f}")
     else:
-        st.info("Please upload an image or use the camera to start.")
+        if not st.session_state.show_camera:
+             st.info("Please upload an image or use the camera to start.")
 
 if __name__ == '__main__':
     main()
