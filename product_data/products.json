@@ -1,87 +1,87 @@
 [
     {
         "id": "shoe001",
-        "name": "Running Shoe",
+        "name": "Urban retro",
         "category": "Shoes",
         "price": 59.99,
-        "image_path": "product_data\\product_images\\shoe001.jpg"
+        "image_path": "product_data\\product_images\\urban retro001.jpeg"
     },
     {
         "id": "shoe002",
         "name": "Casual Sneaker",
         "category": "Shoes",
         "price": 75.0,
-        "image_path": "product_data\\product_images\\shoe002.jpg"
+        "image_path": "product_data\\product_images\\sneakers002.jpeg"
     },
     {
         "id": "shoe003",
-        "name": "Hiking Boot",
+        "name": "sports shoe",
         "category": "Shoes",
-        "price": 120.5,
-        "image_path": "product_data\\product_images\\shoe003.jpg"
+        "price": 119.5,
+        "image_path": "product_data\\product_images\\sportshoe003.jpeg"
     },
     {
         "id": "shoe004",
-        "name": "Formal Oxford",
+        "name": "formal shoes",
         "category": "Shoes",
-        "price": 99.99,
-        "image_path": "product_data\\product_images\\shoe004.jpg"
+        "price": 199.99,
+        "image_path": "product_data\\product_images\\formalshoe004.jpeg"
     },
     {
         "id": "bag001",
         "name": "Leather Backpack",
         "category": "Bags",
         "price": 89.99,
-        "image_path": "product_data\\product_images\\bag001.jpg"
+        "image_path": "product_data\\product_images\\bag001.jpeg"
     },
     {
         "id": "bag002",
-        "name": "Canvas Tote",
+        "name": "Mini travel hand bag",
         "category": "Bags",
         "price": 25.0,
-        "image_path": "product_data\\product_images\\bag002.jpg"
+        "image_path": "product_data\\product_images\\bag002.jpeg"
     },
     {
         "id": "bag003",
-        "name": "Travel Duffel",
+        "name": "korean fashion bag",
         "category": "Bags",
         "price": 65.5,
-        "image_path": "product_data\\product_images\\bag003.jpg"
+        "image_path": "product_data\\product_images\\bag003.jpeg"
     },
     {
         "id": "bag004",
-        "name": "Laptop Messenger",
+        "name": "Laptop bag",
         "category": "Bags",
         "price": 45.0,
-        "image_path": "product_data\\product_images\\bag004.jpg"
+        "image_path": "product_data\\product_images\\bag004.jpeg"
     },
     {
         "id": "watch001",
         "name": "Classic Chronograph",
         "category": "Watches",
         "price": 250.0,
-        "image_path": "product_data\\product_images\\watch001.jpg"
+        "image_path": "product_data\\product_images\\watch001.jpeg"
     },
     {
         "id": "watch002",
-        "name": "Digital Sport Watch",
+        "name": "Analog watch",
         "category": "Watches",
         "price": 49.99,
-        "image_path": "product_data\\product_images\\watch002.jpg"
+        "image_path": "product_data\\product_images\\watch002.jpeg"
     },
     {
         "id": "watch003",
         "name": "Minimalist Analog",
         "category": "Watches",
         "price": 150.0,
-        "image_path": "product_data\\product_images\\watch003.jpg"
+        "image_path": "product_data\\product_images\\watch003.jpeg"
     },
     {
         "id": "watch004",
-        "name": "Smart Watch",
+        "name": "Lovely watch",
         "category": "Watches",
         "price": 300.0,
-        "image_path": "product_data\\product_images\\watch004.jpg"
+        "image_path": "product_data\\product_images\\watch004.jpeg"
     },
     {
     "id": "watch005",
@@ -92,31 +92,79 @@
     },
     {
         "id": "chair001",
-        "name": "Ergonomic Office Chair",
+        "name": "wooden chairs",
         "category": "Furniture",
         "price": 220.0,
-        "image_path": "product_data\\product_images\\chair001.jpg"
+        "image_path": "product_data\\product_images\\chair001.jpeg"
     },
     {
         "id": "chair002",
-        "name": "Modern Accent Chair",
+        "name": "Wooden Dining Chair",
         "category": "Furniture",
         "price": 180.75,
-        "image_path": "product_data\\product_images\\chair002.jpg"
+        "image_path": "product_data\\product_images\\chair002.jpeg"
     },
     {
         "id": "chair003",
-        "name": "Wooden Dining Chair",
+        "name": "Modern Accent Chair",
         "category": "Furniture",
         "price": 75.0,
-        "image_path": "product_data\\product_images\\chair003.jpg"
+        "image_path": "product_data\\product_images\\chair003.jpeg"
     },
     {
         "id": "chair004",
-        "name": "Lounge Recliner",
+        "name": "Ergonomic Office Chair",
         "category": "Furniture",
         "price": 350.0,
-        "image_path": "product_data\\product_images\\chair004.jpg"
+        "image_path": "product_data\\product_images\\chair004.jpeg"
+    },
+     {
+        "id": "IQOO Z9X 001",
+        "name": "IQOO Z9",
+        "category": "Mobiles",
+        "price": 350.0,
+        "image_path": "product_data\\product_images\\IQOO z9 001.jpeg"
+    },
+     {
+        "id": "IQOO Z9X 002",
+        "name": "IQOO Z9",
+        "category": "Mobiles",
+        "price": 399.0,
+        "image_path": "product_data\\product_images\\IQOO z9 002.jpeg"
+    },
+      {
+        "id": "IQOO Z9S 003",
+        "name": "IQOO Z9",
+        "category": "Mobiles",
+        "price": 399.0,
+        "image_path": "product_data\\product_images\\IQOO Z9S 003.jpeg"
+    },
+     {
+        "id": "realme buds 001",
+        "name": "realme",
+        "category": "Buds",
+        "price": 399.0,
+        "image_path": "product_data\\product_images\\realme buds 001.jpeg"
+    },
+     {
+        "id": "oneplus buds002",
+        "name": "oneplus",
+        "category": "Buds",
+        "price": 399.0,
+        "image_path": "product_data\\product_images\\oneplus buds002.jpeg"
+    },
+     {
+        "id": "Air pods003",
+        "name": "Air pods",
+        "category": "Buds",
+        "price": 699.0,
+        "image_path": "product_data\\product_images\\Air pods003.jpeg"
+    },
+    {
+        "id": "Apple laptop001",
+        "name": "Macbook",
+        "category": "Buds",
+        "price": 699.0,
+        "image_path": "product_data\\product_images\\apple laptop 001.jpeg"
     }
-
 ]

@@ -19,9 +19,11 @@ def find_similar_products(input_features, all_features, product_metadata):
 
     # Prepare results list
     results = []
+    # --- START: CORRECTION ---
+    # The filter to remove the exact match has been removed.
+    # We now iterate through all sorted indices to include the identical item if found.
     for i in similar_indices:
-        # Don't include the exact same item if its similarity is 1.0 (or very close)
-        if similarities[0, i] < 0.9999:
-            results.append((product_metadata[i], similarities[0, i]))
+        results.append((product_metadata[i], similarities[0, i]))
+    # --- END: CORRECTION ---
 
     return results
