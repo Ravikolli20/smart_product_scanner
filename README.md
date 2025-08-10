@@ -29,45 +29,39 @@ Similarity Algorithm: Cosine Similarity (via Scikit-learn)
 Follow these steps to get the project running on your local machine.
 
 1. Clone the Repository
-Bash
-
-git clone https://github.com/your-username/smart-product-scanner.git
+git clone [https://github.com/your-username/smart-product-scanner.git](https://github.com/your-username/smart-product-scanner.git)
 cd smart-product-scanner
+
 2. Create a Virtual Environment
 It's highly recommended to use a virtual environment to manage dependencies.
 
 Using conda:
 
-Bash
-
 conda create --name smartproduct python=3.9
 conda activate smartproduct
-Using venv:
 
-Bash
+Using venv:
 
 python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+
 3. Install Dependencies
 All required packages are listed in the requirements.txt file.
 
-Bash
-
 pip install -r requirements.txt
+
 4. Build the Product Database
 The first time you run the project, you need to build the database using the web scraper. This script will create the product_data directory, scrape e-commerce sites, download images, and create the products.json file.
 
-Bash
-
 python scraper.py
+
 Note: This step can take a few minutes as it scrapes multiple websites.
 
 5. Run the Streamlit App
 Once the scraper has successfully built the database, you can launch the main application.
 
-Bash
-
 streamlit run app.py
+
 The application should now be open and running in your web browser!
 
 🌐 Deployment on Render
@@ -77,8 +71,6 @@ You can deploy this application to the web using Render.
 Before deploying, you need to create a build.sh script in your project's root directory. This script will tell Render how to set up your app.
 
 build.sh
-
-Bash
 
 #!/bin/bash
 
@@ -90,6 +82,7 @@ pip install -r requirements.txt
 
 # Run the scraper to build the product database
 python scraper.py
+
 2. Deploy on Render
 Go to your Render Dashboard and create a new Web Service.
 
