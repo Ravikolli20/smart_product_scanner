@@ -76,6 +76,7 @@ def inject_css(theme_vals: dict):
         box-shadow: 0 6px 18px rgba(2,6,23,0.08) !important;
         text-align: center;
         transition: transform 0.18s ease, box-shadow 0.18s ease;
+        height: 100%; /* Ensures cards in a row have the same height */
     }}
     .product-card:hover {{
         transform: translateY(-6px) scale(1.02);
@@ -124,6 +125,8 @@ def main():
 
     if "theme" not in st.session_state:
         st.session_state["theme"] = "Light"
+    if "show_camera" not in st.session_state:
+        st.session_state.show_camera = False
 
     with st.sidebar:
         st.markdown("### ⚙️ Settings")
@@ -132,12 +135,12 @@ def main():
         st.markdown("---")
         st.markdown("### 📷 Select Input Method")
         uploaded_file = st.file_uploader("Upload Image", type=["jpg", "jpeg", "png"])
-        take_photo = st.button("📸 Take a Photo")
-        if take_photo:
-            st.session_state["show_camera"] = not st.session_state.get("show_camera", False)
+        if st.button("📸 Take a Photo"):
+            st.session_state.show_camera = not st.session_state.show_camera
+
         camera_input = None
-        if st.session_state.get("show_camera", False):
-            camera_input = st.camera_input("Capture Product Image")
+        if st.session_state.show_camera:
+            camera_input = st.camera_input("Capture Product Image", label_visibility="collapsed")
             st.info("Your photo will be used only for analysis.")
 
     theme_choice = st.session_state.get("theme", "Light")
@@ -152,8 +155,16 @@ def main():
     """, unsafe_allow_html=True)
 
     model = load_model()
+    # Check if the database exists, if not, try to run the scraper, if that fails, create a mock dataset.
     if not os.path.exists(METADATA_FILE):
-        generate_mock_dataset()
+        try:
+            from scraper import scrape_products
+            st.info("No database found. Running web scraper to build one...")
+            scrape_products()
+        except Exception as e:
+            st.warning(f"Scraper failed: {e}. Creating a small mock dataset as a fallback.")
+            generate_mock_dataset()
+
     if not os.path.exists(EMBEDDINGS_FILE):
         generate_embeddings(model)
 
@@ -164,6 +175,8 @@ def main():
     input_image = uploaded_file or camera_input
 
     if input_image is not None:
+        st.session_state.show_camera = False # Hide camera after image is provided
+
         st.markdown('<div class="query-card"><h3>📌 Your Query Image</h3>', unsafe_allow_html=True)
         query_img = Image.open(input_image)
         st.image(query_img, width=320)
@@ -181,20 +194,22 @@ def main():
                     img_b64 = image_to_base64(product["image_path"])
                     st.markdown(
                         f"""
-                        <div class="product-card">
-                            <img src="data:image/jpeg;base64,{img_b64}" class="product-image" />
-                            <div class="product-title">{product['name']}</div>
-                            <div class="product-price">${product['price']:.2f}</div>
-                            <progress value="{score:.4f}" max="1" style="width:100%"></progress>
-                            <small class="muted">Similarity: {score:.2%}</small>
-                        </div>
+                        <a href="{product.get('product_url', '#')}" target="_blank" style="text-decoration: none; color: inherit;">
+                            <div class="product-card">
+                                <img src="data:image/jpeg;base64,{img_b64}" class="product-image" />
+                                <div class="product-title">{product['name']}</div>
+                                <div class="product-price">₹{product['price']:.2f}</div>
+                                <progress value="{score:.4f}" max="1" style="width:100%"></progress>
+                                <small class="muted">Similarity: {score:.2%}</small>
+                            </div>
+                        </a>
                         """,
                         unsafe_allow_html=True,
                     )
     else:
         st.info("👆 Upload an image or use the camera to begin your search.")
         st.markdown("<p style='text-align:center' class='muted'>Your perfect product match is one photo away.</p>",
-                    unsafe_allow_html=True)
+                      unsafe_allow_html=True)
 
 
 if __name__ == "__main__":

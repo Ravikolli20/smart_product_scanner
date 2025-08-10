@@ -1,170 +1,1922 @@
 [
     {
-        "id": "shoe001",
-        "name": "Urban retro",
-        "category": "Shoes",
-        "price": 59.99,
-        "image_path": "product_data\\product_images\\urban retro001.jpeg"
-    },
-    {
-        "id": "shoe002",
-        "name": "Casual Sneaker",
-        "category": "Shoes",
-        "price": 75.0,
-        "image_path": "product_data\\product_images\\sneakers002.jpeg"
-    },
-    {
-        "id": "shoe003",
-        "name": "sports shoe",
-        "category": "Shoes",
-        "price": 119.5,
-        "image_path": "product_data\\product_images\\sportshoe003.jpeg"
-    },
-    {
-        "id": "shoe004",
-        "name": "formal shoes",
-        "category": "Shoes",
-        "price": 199.99,
-        "image_path": "product_data\\product_images\\formalshoe004.jpeg"
-    },
-    {
-        "id": "bag001",
-        "name": "Leather Backpack",
-        "category": "Bags",
-        "price": 89.99,
-        "image_path": "product_data\\product_images\\bag001.jpeg"
-    },
-    {
-        "id": "bag002",
-        "name": "Mini travel hand bag",
-        "category": "Bags",
-        "price": 25.0,
-        "image_path": "product_data\\product_images\\bag002.jpeg"
-    },
-    {
-        "id": "bag003",
-        "name": "korean fashion bag",
-        "category": "Bags",
-        "price": 65.5,
-        "image_path": "product_data\\product_images\\bag003.jpeg"
-    },
-    {
-        "id": "bag004",
-        "name": "Laptop bag",
-        "category": "Bags",
-        "price": 45.0,
-        "image_path": "product_data\\product_images\\bag004.jpeg"
-    },
-    {
-        "id": "watch001",
-        "name": "Classic Chronograph",
+        "id": "product_0000",
+        "name": "SOLLEN",
         "category": "Watches",
-        "price": 250.0,
-        "image_path": "product_data\\product_images\\watch001.jpeg"
+        "price": 2889.0,
+        "product_url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0MDk0ODI5OTA5MjY1OTU6MTc1NDgxODEzMTpzcF9hdGY6MzAwNjM5OTA3MDkzMDMyOjowOjo&url=%2FSOLLEN-Stainless-Original-Resistant-Wristwatch%2Fdp%2FB0DB1Y9G2N%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw%26dib_tag%3Dse%26keywords%3Dmens%2Bwatches%26qid%3D1754818131%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&sp_cr=DUB",
+        "image_path": "product_data/product_images/product_0000.jpg"
     },
     {
-        "id": "watch002",
-        "name": "Analog watch",
+        "id": "product_0001",
+        "name": "Carlington",
         "category": "Watches",
-        "price": 49.99,
-        "image_path": "product_data\\product_images\\watch002.jpeg"
+        "price": 1299.0,
+        "product_url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0MDk0ODI5OTA5MjY1OTU6MTc1NDgxODEzMTpzcF9hdGY6MzAwNDM1MDI2ODY1NjMyOjowOjo&url=%2FCarlington-Analog-Digital-Chronograph-Water-Resistant-Shock-Resistant%2Fdp%2FB0CFFWYLJ8%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw%26dib_tag%3Dse%26keywords%3Dmens%2Bwatches%26qid%3D1754818131%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&sp_cr=DUB",
+        "image_path": "product_data/product_images/product_0001.jpg"
     },
     {
-        "id": "watch003",
-        "name": "Minimalist Analog",
+        "id": "product_0002",
+        "name": "Daniel Hechter",
         "category": "Watches",
+        "price": 2999.0,
+        "product_url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0MDk0ODI5OTA5MjY1OTU6MTc1NDgxODEzMTpzcF9hdGY6MzAwNjM2MjA2OTY0MTMyOjowOjo&url=%2FDaniel-Hechter-Analogue-Black-Watch-DHM1001-01%2Fdp%2FB0DZTMMSY2%2Fref%3Dsr_1_3_sspa%3Fdib%3DeyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw%26dib_tag%3Dse%26keywords%3Dmens%2Bwatches%26qid%3D1754818131%26sr%3D8-3-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&sp_cr=DUB",
+        "image_path": "product_data/product_images/product_0002.jpg"
+    },
+    {
+        "id": "product_0003",
+        "name": "Tommy Hilfiger",
+        "category": "Watches",
+        "price": 13999.0,
+        "product_url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0MDk0ODI5OTA5MjY1OTU6MTc1NDgxODEzMTpzcF9hdGY6MzAwNTU4MzcxMzc1OTMyOjowOjo&url=%2FTommy-Hilfiger-Analog-Blue-Watch-TH1792083%2Fdp%2FB0CLRFMQLS%2Fref%3Dsr_1_4_sspa%3Fdib%3DeyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw%26dib_tag%3Dse%26keywords%3Dmens%2Bwatches%26qid%3D1754818131%26sr%3D8-4-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&sp_cr=DUB",
+        "image_path": "product_data/product_images/product_0003.jpg"
+    },
+    {
+        "id": "product_0004",
+        "name": "TIMEX",
+        "category": "Watches",
+        "price": 1193.0,
+        "product_url": "https://www.amazon.in/TIMEX-Leather-Tw00Zr262E-Color-Brown-Color-Blue/dp/B07H3K85H5/ref=sr_1_5?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-5",
+        "image_path": "product_data/product_images/product_0004.jpg"
+    },
+    {
+        "id": "product_0005",
+        "name": "TIMEWEAR",
+        "category": "Watches",
+        "price": 379.0,
+        "product_url": "https://www.amazon.in/TIMEWEAR-Functioning-White-Chain-Watch/dp/B07MDGSP8F/ref=sr_1_6?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-6",
+        "image_path": "product_data/product_images/product_0005.jpg"
+    },
+    {
+        "id": "product_0006",
+        "name": "Matrix",
+        "category": "Watches",
+        "price": 298.0,
+        "product_url": "https://www.amazon.in/Matrix-Black-Functioning-Stainless-Analog/dp/B0BNHD7MM3/ref=sr_1_7?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-7",
+        "image_path": "product_data/product_images/product_0006.jpg"
+    },
+    {
+        "id": "product_0007",
+        "name": "Noise",
+        "category": "Watches",
+        "price": 1199.0,
+        "product_url": "https://www.amazon.in/Noise-Launched-Bluetooth-Calling-Tracking/dp/B0BJ72WZQ7/ref=sr_1_8?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-8",
+        "image_path": "product_data/product_images/product_0007.jpg"
+    },
+    {
+        "id": "product_0008",
+        "name": "Titan",
+        "category": "Watches",
+        "price": 1695.0,
+        "product_url": "https://www.amazon.in/Titan-Karishma-Stainless-Watch-NL1639SM02-NN1639SM02/dp/B00ISNVQMW/ref=sr_1_9?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-9",
+        "image_path": "product_data/product_images/product_0008.jpg"
+    },
+    {
+        "id": "product_0009",
+        "name": "Fastrack",
+        "category": "Watches",
+        "price": 805.0,
+        "product_url": "https://www.amazon.in/Fastrack-Analog-Black-Unisex-Adult-Watch-38024PP25/dp/B099WNYHY2/ref=sr_1_10?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-10",
+        "image_path": "product_data/product_images/product_0009.jpg"
+    },
+    {
+        "id": "product_0010",
+        "name": "Sonata",
+        "category": "Watches",
+        "price": 675.0,
+        "product_url": "https://www.amazon.in/SF-Quartz-Analog-White-Men-NS7930PP01/dp/B00ECWG1NC/ref=sr_1_11?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-11",
+        "image_path": "product_data/product_images/product_0010.jpg"
+    },
+    {
+        "id": "product_0011",
+        "name": "boAt",
+        "category": "Watches",
+        "price": 1499.0,
+        "product_url": "https://www.amazon.in/boAt-Lunar-Discovery-Navigation-Bluetooth/dp/B0DFYL4635/ref=sr_1_12?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-12",
+        "image_path": "product_data/product_images/product_0011.jpg"
+    },
+    {
+        "id": "product_0012",
+        "name": "styledose",
+        "category": "Watches",
+        "price": 379.0,
+        "product_url": "https://www.amazon.in/styledose-Minimalist-Square-Stainless-Display/dp/B0F4R8YXGL/ref=sr_1_13?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-13",
+        "image_path": "product_data/product_images/product_0012.jpg"
+    },
+    {
+        "id": "product_0013",
+        "name": "Noise",
+        "category": "Watches",
+        "price": 1699.0,
+        "product_url": "https://www.amazon.in/Noise-Smartwatch-Calling-Tracking-Monitoring/dp/B0CQ4J4YFL/ref=sr_1_14?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-14",
+        "image_path": "product_data/product_images/product_0013.jpg"
+    },
+    {
+        "id": "product_0014",
+        "name": "LOUIS DEVIN",
+        "category": "Watches",
+        "price": 369.0,
+        "product_url": "https://www.amazon.in/LOUIS-DEVIN-Silicone-Analog-LD-BK054-BLACK/dp/B0BD5R89RQ/ref=sr_1_15?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-15",
+        "image_path": "product_data/product_images/product_0014.jpg"
+    },
+    {
+        "id": "product_0015",
+        "name": "Fastrack",
+        "category": "Watches",
+        "price": 855.0,
+        "product_url": "https://www.amazon.in/Fastrack-Tees-Analog-Unisex-Adult-Watch-68011PP08/dp/B099WR4WHC/ref=sr_1_16?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-16",
+        "image_path": "product_data/product_images/product_0015.jpg"
+    },
+    {
+        "id": "product_0016",
+        "name": "Casio",
+        "category": "Watches",
+        "price": 1695.0,
+        "product_url": "https://www.amazon.in/Casio-Vintage-Digital-Grey-Watch-A158WA-1Q/dp/B000GAYQJ0/ref=sr_1_17?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-17",
+        "image_path": "product_data/product_images/product_0016.jpg"
+    },
+    {
+        "id": "product_0017",
+        "name": "Acnos",
+        "category": "Watches",
+        "price": 280.0,
+        "product_url": "https://www.amazon.in/Acnos%C2%AE-Premium-Digital-Vintage-WR-Silver/dp/B0BZJ15VVF/ref=sr_1_18?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-18",
+        "image_path": "product_data/product_images/product_0017.jpg"
+    },
+    {
+        "id": "product_0018",
+        "name": "Titan",
+        "category": "Watches",
+        "price": 3195.0,
+        "product_url": "https://www.amazon.in/Titan-Analog-Black-Dial-Watch-1806NM01/dp/B091Q7JNTC/ref=sr_1_19?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-19",
+        "image_path": "product_data/product_images/product_0018.jpg"
+    },
+    {
+        "id": "product_0019",
+        "name": "TIMEX",
+        "category": "Watches",
+        "price": 4719.0,
+        "product_url": "https://www.amazon.in/TIMEX-Analog-Leather-Resistant-Watches/dp/B083JVP511/ref=sr_1_20?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-20",
+        "image_path": "product_data/product_images/product_0019.jpg"
+    },
+    {
+        "id": "product_0020",
+        "name": "Tommy Hilfiger",
+        "category": "Watches",
+        "price": 7873.0,
+        "product_url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0MDk0ODI5OTA5MjY1OTU6MTc1NDgxODEzMTpzcF9tdGY6MzAwNTg2OTczNzk2MTMyOjowOjo&url=%2FTommy-Hilfiger-Analog-Blue-Watch-TH1792073%2Fdp%2FB0BTYHQGTH%2Fref%3Dsr_1_21_sspa%3Fdib%3DeyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw%26dib_tag%3Dse%26keywords%3Dmens%2Bwatches%26qid%3D1754818131%26sr%3D8-21-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&sp_cr=DUB",
+        "image_path": "product_data/product_images/product_0020.jpg"
+    },
+    {
+        "id": "product_0021",
+        "name": "Tommy Hilfiger",
+        "category": "Watches",
+        "price": 9135.0,
+        "product_url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0MDk0ODI5OTA5MjY1OTU6MTc1NDgxODEzMTpzcF9tdGY6MzAwNjIzMTY1MDk0MTMyOjowOjo&url=%2FTommy-Hilfiger-Analog-Black-Watch-TH1791992%2Fdp%2FB09YV9VR2L%2Fref%3Dsr_1_22_sspa%3Fdib%3DeyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw%26dib_tag%3Dse%26keywords%3Dmens%2Bwatches%26qid%3D1754818131%26sr%3D8-22-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&sp_cr=DUB",
+        "image_path": "product_data/product_images/product_0021.jpg"
+    },
+    {
+        "id": "product_0022",
+        "name": "Tommy Hilfiger",
+        "category": "Watches",
+        "price": 7199.0,
+        "product_url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0MDk0ODI5OTA5MjY1OTU6MTc1NDgxODEzMTpzcF9tdGY6MzAwNjIzMTY1MDkzMDMyOjowOjo&url=%2FTommy-Hilfiger-Analog-Casual-Watch%2Fdp%2FB0CBJTZXB3%2Fref%3Dsr_1_23_sspa%3Fdib%3DeyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw%26dib_tag%3Dse%26keywords%3Dmens%2Bwatches%26qid%3D1754818131%26sr%3D8-23-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&sp_cr=DUB",
+        "image_path": "product_data/product_images/product_0022.jpg"
+    },
+    {
+        "id": "product_0023",
+        "name": "Carlton London",
+        "category": "Watches",
+        "price": 3840.0,
+        "product_url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0MDk0ODI5OTA5MjY1OTU6MTc1NDgxODEzMTpzcF9tdGY6MzAwNTYyNTQxOTAwMjMyOjowOjo&url=%2FCarlton-London-Jordan-Analog-Watch-CLJOR-002%2Fdp%2FB0DYDXXVJ7%2Fref%3Dsr_1_24_sspa%3Fdib%3DeyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw%26dib_tag%3Dse%26keywords%3Dmens%2Bwatches%26qid%3D1754818131%26sr%3D8-24-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&sp_cr=DUB",
+        "image_path": "product_data/product_images/product_0023.jpg"
+    },
+    {
+        "id": "product_0024",
+        "name": "Titan",
+        "category": "Watches",
+        "price": 11995.0,
+        "product_url": "https://www.amazon.in/Titan-Maritime-Chronograph-Leather-Men-NS1830KL01/dp/B07YPK5TZ5/ref=sr_1_25?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-25",
+        "image_path": "product_data/product_images/product_0024.jpg"
+    },
+    {
+        "id": "product_0025",
+        "name": "Titan",
+        "category": "Watches",
+        "price": 2200.0,
+        "product_url": "https://www.amazon.in/Titan-Karishma-Analog-Black-NK1578SM04/dp/B00BV5FHKG/ref=sr_1_26?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-26",
+        "image_path": "product_data/product_images/product_0025.jpg"
+    },
+    {
+        "id": "product_0026",
+        "name": "Fossil",
+        "category": "Watches",
+        "price": 6795.0,
+        "product_url": "https://www.amazon.in/Fossil-Chronograph-Silver-Dial-Watch-CH2882/dp/B00DUCIK7U/ref=sr_1_27?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-27",
+        "image_path": "product_data/product_images/product_0026.jpg"
+    },
+    {
+        "id": "product_0027",
+        "name": "V2A",
+        "category": "Watches",
+        "price": 890.0,
+        "product_url": "https://www.amazon.in/V2A-Adventure-Multifunction-Stopwatch-Waterproof/dp/B0DVQ4MK7N/ref=sr_1_28?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-28",
+        "image_path": "product_data/product_images/product_0027.jpg"
+    },
+    {
+        "id": "product_0028",
+        "name": "boAt",
+        "category": "Watches",
+        "price": 1499.0,
+        "product_url": "https://www.amazon.in/boAt-Lunar-Discovery-Navigation-Bluetooth/dp/B0DFYKMR8T/ref=sr_1_29?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-29",
+        "image_path": "product_data/product_images/product_0028.jpg"
+    },
+    {
+        "id": "product_0029",
+        "name": "Titan",
+        "category": "Watches",
+        "price": 2419.0,
+        "product_url": "https://www.amazon.in/Titan-Autumn-Winter-NM1584SL03-NN1584SL03-NP1584SL03/dp/B018VZBTLY/ref=sr_1_30?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-30",
+        "image_path": "product_data/product_images/product_0029.jpg"
+    },
+    {
+        "id": "product_0030",
+        "name": "Titan",
+        "category": "Watches",
+        "price": 1715.0,
+        "product_url": "https://www.amazon.in/Titan-Quartz-Analog-Stainless-Men-NS1712YM02/dp/B01CLFHBAS/ref=sr_1_31?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-31",
+        "image_path": "product_data/product_images/product_0030.jpg"
+    },
+    {
+        "id": "product_0031",
+        "name": "Sonata",
+        "category": "Watches",
+        "price": 699.0,
+        "product_url": "https://www.amazon.in/Sonata-Quartz-Stainless-Men-NP7987SM03W-NT7987SM03W/dp/B00HPSP9UQ/ref=sr_1_32?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-32",
+        "image_path": "product_data/product_images/product_0031.jpg"
+    },
+    {
+        "id": "product_0032",
+        "name": "Noise",
+        "category": "Watches",
+        "price": 1099.0,
+        "product_url": "https://www.amazon.in/Noise-Advanced-Bluetooth-Brightness-Smartwatch/dp/B0B6BLTGTT/ref=sr_1_33?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-33",
+        "image_path": "product_data/product_images/product_0032.jpg"
+    },
+    {
+        "id": "product_0033",
+        "name": "Titan",
+        "category": "Watches",
+        "price": 925.0,
+        "product_url": "https://www.amazon.in/Sonata-Titan-Leather-Men-NS7135SL03-NT7135SL03/dp/B08R3VJHLN/ref=sr_1_34?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-34",
+        "image_path": "product_data/product_images/product_0033.jpg"
+    },
+    {
+        "id": "product_0034",
+        "name": "Titan",
+        "category": "Watches",
+        "price": 2955.0,
+        "product_url": "https://www.amazon.in/Titan-Karishma-Analog-Silver-Watch-1774BM01/dp/B07CQ2DBSN/ref=sr_1_35?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-35",
+        "image_path": "product_data/product_images/product_0034.jpg"
+    },
+    {
+        "id": "product_0035",
+        "name": "Noise",
+        "category": "Watches",
+        "price": 1099.0,
+        "product_url": "https://www.amazon.in/Noise-Advanced-Bluetooth-Brightness-Smartwatch/dp/B0B6BPX5S9/ref=sr_1_36?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-36",
+        "image_path": "product_data/product_images/product_0035.jpg"
+    },
+    {
+        "id": "product_0036",
+        "name": "Daniel Hechter",
+        "category": "Watches",
+        "price": 2999.0,
+        "product_url": "https://www.amazon.in/Daniel-Hechter-Analogue-Green-Watch-DHM1001-01/dp/B0DZTNVL2M/ref=sr_1_37?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-37",
+        "image_path": "product_data/product_images/product_0036.jpg"
+    },
+    {
+        "id": "product_0037",
+        "name": "Sonata",
+        "category": "Watches",
+        "price": 1099.0,
+        "product_url": "https://www.amazon.in/Sonata-Essentials-Analog-White-Watch-77083SM01/dp/B0784GGT3G/ref=sr_1_38?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-38",
+        "image_path": "product_data/product_images/product_0037.jpg"
+    },
+    {
+        "id": "product_0038",
+        "name": "Sonata",
+        "category": "Watches",
+        "price": 999.0,
+        "product_url": "https://www.amazon.in/Sonata-Quartz-Champagne-Stainless-Men-NP7987YM06W/dp/B00GSJ5L3S/ref=sr_1_39?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-39",
+        "image_path": "product_data/product_images/product_0038.jpg"
+    },
+    {
+        "id": "product_0039",
+        "name": "Fastrack",
+        "category": "Watches",
+        "price": 1595.0,
+        "product_url": "https://www.amazon.in/Fastrack-Trendies-Analog-Black-Watch-38058PP03/dp/B08K9946WZ/ref=sr_1_40?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-40",
+        "image_path": "product_data/product_images/product_0039.jpg"
+    },
+    {
+        "id": "product_0040",
+        "name": "Fastrack",
+        "category": "Watches",
+        "price": 1499.0,
+        "product_url": "https://www.amazon.in/Fastrack-Limitless-SingleSync-Smartwatch-Assistant/dp/B0D9629NJQ/ref=sr_1_41?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-41",
+        "image_path": "product_data/product_images/product_0040.jpg"
+    },
+    {
+        "id": "product_0041",
+        "name": "SWADESI STUFF",
+        "category": "Watches",
+        "price": 469.0,
+        "product_url": "https://www.amazon.in/SWADESI-STUFF-Stainless-Analogue-Dial-Color/dp/B0DSC7FYZF/ref=sr_1_42?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-42",
+        "image_path": "product_data/product_images/product_0041.jpg"
+    },
+    {
+        "id": "product_0042",
+        "name": "Titan",
+        "category": "Watches",
+        "price": 2290.0,
+        "product_url": "https://www.amazon.in/Titan-Karishma-NM1774SM01-NN1774SM01-NP1774SM01/dp/B07CNVJ241/ref=sr_1_43?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-43",
+        "image_path": "product_data/product_images/product_0042.jpg"
+    },
+    {
+        "id": "product_0043",
+        "name": "Titan",
+        "category": "Watches",
+        "price": 4794.0,
+        "product_url": "https://www.amazon.in/Titan-Analog-NM1734WL01-NN1734WL01-NP1734WL01/dp/B0768YSHWF/ref=sr_1_44?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-44",
+        "image_path": "product_data/product_images/product_0043.jpg"
+    },
+    {
+        "id": "product_0044",
+        "name": "Sonata",
+        "category": "Watches",
+        "price": 949.0,
+        "product_url": "https://www.amazon.in/Sonata-Analog-Grey-Dial-Watch-77083SM05W/dp/B08R3TRKVQ/ref=sr_1_45?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-45",
+        "image_path": "product_data/product_images/product_0044.jpg"
+    },
+    {
+        "id": "product_0045",
+        "name": "Fastrack",
+        "category": "Watches",
+        "price": 1835.0,
+        "product_url": "https://www.amazon.in/Fastrack-Analog-Watch-Unisex-38076PP01W/dp/B0CCW72H5B/ref=sr_1_46?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-46",
+        "image_path": "product_data/product_images/product_0045.jpg"
+    },
+    {
+        "id": "product_0046",
+        "name": "Fastrack",
+        "category": "Watches",
+        "price": 2999.0,
+        "product_url": "https://www.amazon.in/Fastrack-Resolution-SingleSync-Assistant-Smartwatch/dp/B0DGGVHMDS/ref=sr_1_47?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-47",
+        "image_path": "product_data/product_images/product_0046.jpg"
+    },
+    {
+        "id": "product_0047",
+        "name": "Fastrack",
+        "category": "Watches",
+        "price": 3194.0,
+        "product_url": "https://www.amazon.in/Fastrack-Machines-Analog-Digital-Black-Watch-38055PP01/dp/B08D3R3GFX/ref=sr_1_48?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-48",
+        "image_path": "product_data/product_images/product_0047.jpg"
+    },
+    {
+        "id": "product_0048",
+        "name": "Noise",
+        "category": "Watches",
+        "price": 2999.0,
+        "product_url": "https://www.amazon.in/NoiseFit-Display-Bluetooth-Calling-Metallic/dp/B0BN1ZG1QZ/ref=sr_1_49?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-49",
+        "image_path": "product_data/product_images/product_0048.jpg"
+    },
+    {
+        "id": "product_0049",
+        "name": "Titan",
+        "category": "Watches",
+        "price": 3035.0,
+        "product_url": "https://www.amazon.in/Titan-Karishma-Analog-NM1825KM01-NN1825KM01/dp/B07SPCJ13L/ref=sr_1_50?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-50",
+        "image_path": "product_data/product_images/product_0049.jpg"
+    },
+    {
+        "id": "product_0050",
+        "name": "Fastrack",
+        "category": "Watches",
+        "price": 1995.0,
+        "product_url": "https://www.amazon.in/Fastrack-Quartz-Stainless-Guys-NS38051SM07-NT38051SM07/dp/B07JFXW454/ref=sr_1_51?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-51",
+        "image_path": "product_data/product_images/product_0050.jpg"
+    },
+    {
+        "id": "product_0051",
+        "name": "Fastrack",
+        "category": "Watches",
+        "price": 1395.0,
+        "product_url": "https://www.amazon.in/Fastrack-Green-Analog-Watch-3278SL03/dp/B0C1C1H6HT/ref=sr_1_52?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-52",
+        "image_path": "product_data/product_images/product_0051.jpg"
+    },
+    {
+        "id": "product_0052",
+        "name": "TIMEX",
+        "category": "Watches",
+        "price": 4377.0,
+        "product_url": "https://www.amazon.in/TIMEX-Black-Round-Analog-Watch/dp/B0D1CK3V8W/ref=sr_1_53?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-53",
+        "image_path": "product_data/product_images/product_0052.jpg"
+    },
+    {
+        "id": "product_0053",
+        "name": "Titan",
+        "category": "Watches",
+        "price": 4595.0,
+        "product_url": "https://www.amazon.in/Titan-Autumn-Winter-Analog-NM1698SM02-NN1698SM02/dp/B0183Y7Z4I/ref=sr_1_54?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-54",
+        "image_path": "product_data/product_images/product_0053.jpg"
+    },
+    {
+        "id": "product_0054",
+        "name": "Fastrack",
+        "category": "Watches",
+        "price": 1915.0,
+        "product_url": "https://www.amazon.in/Fastrack-Trendies-Digital-Silicone-Guys-NS38045PP03/dp/B079VTDT5G/ref=sr_1_55?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-55",
+        "image_path": "product_data/product_images/product_0054.jpg"
+    },
+    {
+        "id": "product_0055",
+        "name": "Fastrack",
+        "category": "Watches",
+        "price": 3915.0,
+        "product_url": "https://www.amazon.in/Fastrack-Stainless-Watch-NL3147KM01-NN3147KM01-NP3147KM01/dp/B01GDWNV86/ref=sr_1_56?dib=eyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw&dib_tag=se&keywords=mens+watches&qid=1754818131&sr=8-56",
+        "image_path": "product_data/product_images/product_0055.jpg"
+    },
+    {
+        "id": "product_0056",
+        "name": "Tommy Hilfiger",
+        "category": "Watches",
+        "price": 12340.0,
+        "product_url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0MDk0ODI5OTA5MjY1OTU6MTc1NDgxODEzMTpzcF9idGY6MzAwNjIzMTY1MDkxMDMyOjowOjo&url=%2FTommy-Hilfiger-Analog-Blue-Watch-TH1791399%2Fdp%2FB07BBM3NL8%2Fref%3Dsr_1_57_sspa%3Fdib%3DeyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw%26dib_tag%3Dse%26keywords%3Dmens%2Bwatches%26qid%3D1754818131%26sr%3D8-57-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&sp_cr=DUB",
+        "image_path": "product_data/product_images/product_0056.jpg"
+    },
+    {
+        "id": "product_0057",
+        "name": "Tommy Hilfiger",
+        "category": "Watches",
+        "price": 13995.0,
+        "product_url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0MDk0ODI5OTA5MjY1OTU6MTc1NDgxODEzMTpzcF9idGY6MzAwNjIzMTY1MDkyNTMyOjowOjo&url=%2FTommy-Hilfiger-Analog-White-Watch-TH1791778%2Fdp%2FB08HVKBT41%2Fref%3Dsr_1_58_sspa%3Fdib%3DeyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw%26dib_tag%3Dse%26keywords%3Dmens%2Bwatches%26qid%3D1754818131%26sr%3D8-58-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&sp_cr=DUB",
+        "image_path": "product_data/product_images/product_0057.jpg"
+    },
+    {
+        "id": "product_0058",
+        "name": "Sapphero",
+        "category": "Watches",
+        "price": 2999.0,
+        "product_url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0MDk0ODI5OTA5MjY1OTU6MTc1NDgxODEzMTpzcF9idGY6MzAwNjQzMTIyNTM0MDMyOjowOjo&url=%2FSapphero-Chronograph-Original-Stainless-Waterproof%2Fdp%2FB0FF4W5MHM%2Fref%3Dsr_1_59_sspa%3Fdib%3DeyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw%26dib_tag%3Dse%26keywords%3Dmens%2Bwatches%26qid%3D1754818131%26sr%3D8-59-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&sp_cr=DUB",
+        "image_path": "product_data/product_images/product_0058.jpg"
+    },
+    {
+        "id": "product_0059",
+        "name": "KENNETH COLE",
+        "category": "Watches",
+        "price": 8749.0,
+        "product_url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0MDk0ODI5OTA5MjY1OTU6MTc1NDgxODEzMTpzcF9idGY6MzAwNjM4MzI5NzIwMjMyOjowOjo&url=%2FKenneth-Cole-Analog-Casual-Watch%2Fdp%2FB0CSKDJ9JC%2Fref%3Dsr_1_60_sspa%3Fdib%3DeyJ2IjoiMSJ9.cAI0ekg06OaC34NXjEo7vm5-BzV-D1MjZoar-GtquogOXLVET-MA2rZd-T-Tmp1E6X76prnfHI1yz5-7Rzip4gHJS9Rm_V8oxqnDyUL84oHplA-zO7vt9lu0j8CJ1muqGfC8JqCVr-mENEzV_Xa3PKCGLwRMPKQKboo9EPkxtkoVIwVKbXnqMdLdS7w74ftNG_mivW0L8l_x7khcFR-bMjQb4xX4ABCo55Q-ej3zAFD8JRzkiPvY0DjjVuGxgJV455GPzDfXilB5kTdKTr1cOKOEVasyP7CcIQWWef5_ikA.siNarKmUeKQv8D6J4pjmygj6mLo6f_mBXdLYH0gkcBw%26dib_tag%3Dse%26keywords%3Dmens%2Bwatches%26qid%3D1754818131%26sr%3D8-60-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&sp_cr=DUB",
+        "image_path": "product_data/product_images/product_0059.jpg"
+    },
+    {
+        "id": "product_0060",
+        "name": "BRUTON",
+        "category": "Shoes",
+        "price": 549.0,
+        "product_url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo3NTYxMTc3NjY4MTkyNzQxOjE3NTQ4MTgxOTU6c3BfYXRmOjMwMDM0NDA5OTAzNDEzMjo6MDo6&url=%2FBRUTON-830-Running-Sport-Men-White%2Fdp%2FB0DBV85TTD%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w%26dib_tag%3Dse%26keywords%3Drunning%2Bshoes%2Bfor%2Bmen%26qid%3D1754818195%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&sp_cr=DUB",
+        "image_path": "product_data/product_images/product_0060.jpg"
+    },
+    {
+        "id": "product_0061",
+        "name": "Campus",
+        "category": "Shoes",
+        "price": 849.0,
+        "product_url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo3NTYxMTc3NjY4MTkyNzQxOjE3NTQ4MTgxOTU6c3BfYXRmOjMwMDY0MjU5OTExODAzMjo6MDo6&url=%2FCampus-Hurricane-BTGRN-BLK-Running-Shoes%2Fdp%2FB09HCHNNH1%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w%26dib_tag%3Dse%26keywords%3Drunning%2Bshoes%2Bfor%2Bmen%26qid%3D1754818195%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&sp_cr=DUB",
+        "image_path": "product_data/product_images/product_0061.jpg"
+    },
+    {
+        "id": "product_0062",
+        "name": "ASIAN",
+        "category": "Shoes",
+        "price": 1399.0,
+        "product_url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo3NTYxMTc3NjY4MTkyNzQxOjE3NTQ4MTgxOTU6c3BfYXRmOjMwMDE2NjY4MzIxNDAzMjo6MDo6&url=%2FASIAN-SUPERSTAR-01-Running-Superior-Cushioning%2Fdp%2FB0CMGPQ5WN%2Fref%3Dsr_1_3_sspa%3Fdib%3DeyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w%26dib_tag%3Dse%26keywords%3Drunning%2Bshoes%2Bfor%2Bmen%26qid%3D1754818195%26sr%3D8-3-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&sp_cr=DUB",
+        "image_path": "product_data/product_images/product_0062.jpg"
+    },
+    {
+        "id": "product_0063",
+        "name": "Boldfit",
+        "category": "Shoes",
+        "price": 1499.0,
+        "product_url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo3NTYxMTc3NjY4MTkyNzQxOjE3NTQ4MTgxOTU6c3BfYXRmOjMwMDM5MzkwNzc4NTMzMjo6MDo6&url=%2FBoldFit-Running-Breathable-Workout-Lightweight%2Fdp%2FB0DGXFX8QN%2Fref%3Dsr_1_4_sspa%3Fdib%3DeyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w%26dib_tag%3Dse%26keywords%3Drunning%2Bshoes%2Bfor%2Bmen%26qid%3D1754818195%26sr%3D8-4-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&sp_cr=DUB",
+        "image_path": "product_data/product_images/product_0063.jpg"
+    },
+    {
+        "id": "product_0064",
+        "name": "ASIAN",
+        "category": "Shoes",
+        "price": 599.0,
+        "product_url": "https://www.amazon.in/ASIAN-Mens-Wonder-13-1Green-Sneaker/dp/B01MRN1BY4/ref=sr_1_5?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-5",
+        "image_path": "product_data/product_images/product_0064.jpg"
+    },
+    {
+        "id": "product_0065",
+        "name": "Reebok",
+        "category": "Shoes",
+        "price": 1499.0,
+        "product_url": "https://www.amazon.in/Reebok-Stride-Runner-Running-Shoes/dp/B09SHVCTZF/ref=sr_1_6?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-6",
+        "image_path": "product_data/product_images/product_0065.jpg"
+    },
+    {
+        "id": "product_0066",
+        "name": "LANCER",
+        "category": "Shoes",
+        "price": 565.0,
+        "product_url": "https://www.amazon.in/Lancer-White-Sports-Running-Indus-251/dp/B081LGL5QT/ref=sr_1_7?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-7",
+        "image_path": "product_data/product_images/product_0066.jpg"
+    },
+    {
+        "id": "product_0067",
+        "name": "adidas",
+        "category": "Shoes",
+        "price": 1579.0,
+        "product_url": "https://www.amazon.in/Adidas-CGRANI-Running-Shoes-8-CL7631_8/dp/B07M8H2HR4/ref=sr_1_8?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-8",
+        "image_path": "product_data/product_images/product_0067.jpg"
+    },
+    {
+        "id": "product_0068",
+        "name": "SPARX",
+        "category": "Shoes",
+        "price": 878.0,
+        "product_url": "https://www.amazon.in/Sparx-Black-Running-Shoes-SM-414-43/dp/B07HL3VT14/ref=sr_1_9?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-9",
+        "image_path": "product_data/product_images/product_0068.jpg"
+    },
+    {
+        "id": "product_0069",
+        "name": "Red Tape",
+        "category": "Shoes",
+        "price": 1307.0,
+        "product_url": "https://www.amazon.in/Red-Tape-Athleisure-Cushioning-Ventilation/dp/B0FHDBSGWM/ref=sr_1_10?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-10",
+        "image_path": "product_data/product_images/product_0069.jpg"
+    },
+    {
+        "id": "product_0070",
+        "name": "ASIAN",
+        "category": "Shoes",
+        "price": 674.0,
+        "product_url": "https://www.amazon.in/Asian-Shoes-Future-01-White-Running/dp/B019WGIAZE/ref=sr_1_11?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-11",
+        "image_path": "product_data/product_images/product_0070.jpg"
+    },
+    {
+        "id": "product_0071",
+        "name": "Puma",
+        "category": "Shoes",
+        "price": 1599.0,
+        "product_url": "https://www.amazon.in/Puma-Dazzler-Black-Puma-Silver-Sneaker/dp/B09RFYKC8D/ref=sr_1_12?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-12",
+        "image_path": "product_data/product_images/product_0071.jpg"
+    },
+    {
+        "id": "product_0072",
+        "name": "Campus",
+        "category": "Shoes",
+        "price": 1099.0,
+        "product_url": "https://www.amazon.in/Campus-First-L-Gry-Running-Shoes/dp/B08WPN4TY5/ref=sr_1_13?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-13",
+        "image_path": "product_data/product_images/product_0072.jpg"
+    },
+    {
+        "id": "product_0073",
+        "name": "Reebok",
+        "category": "Shoes",
+        "price": 1679.0,
+        "product_url": "https://www.amazon.in/Reebok-Cypress-Running-Shoes-8-FW0366/dp/B082QJDRZV/ref=sr_1_14?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-14",
+        "image_path": "product_data/product_images/product_0073.jpg"
+    },
+    {
+        "id": "product_0074",
+        "name": "Campus",
+        "category": "Shoes",
+        "price": 1099.0,
+        "product_url": "https://www.amazon.in/Campus-North-Plus-Running-Shoes/dp/B08PRY7ZY8/ref=sr_1_15?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-15",
+        "image_path": "product_data/product_images/product_0074.jpg"
+    },
+    {
+        "id": "product_0075",
+        "name": "Campus",
+        "category": "Shoes",
+        "price": 800.0,
+        "product_url": "https://www.amazon.in/Campus-Mens-Wells-Running-Shoes/dp/B08VGRF3L1/ref=sr_1_16?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-16",
+        "image_path": "product_data/product_images/product_0075.jpg"
+    },
+    {
+        "id": "product_0076",
+        "name": "BRUTON",
+        "category": "Shoes",
+        "price": 329.0,
+        "product_url": "https://www.amazon.in/BRUTON-Exclusive-Trendy-Shoes-Numeric_7/dp/B0BKKZ5RY2/ref=sr_1_17?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-17",
+        "image_path": "product_data/product_images/product_0076.jpg"
+    },
+    {
+        "id": "product_0077",
+        "name": "Skechers",
+        "category": "Shoes",
+        "price": 2845.0,
+        "product_url": "https://www.amazon.in/Skechers-Black-Mens-Casual-Shoes-232057ID-BBK-SUMMITS-Brisbane-UK9/dp/B09XXR4TXK/ref=sr_1_18?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-18",
+        "image_path": "product_data/product_images/product_0077.jpg"
+    },
+    {
+        "id": "product_0078",
+        "name": "ASIAN",
+        "category": "Shoes",
+        "price": 634.0,
+        "product_url": "https://www.amazon.in/ASIAN-Cosco-13-Running-Sports-Multicolor/dp/B07V2FWRHK/ref=sr_1_19?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-19",
+        "image_path": "product_data/product_images/product_0078.jpg"
+    },
+    {
+        "id": "product_0079",
+        "name": "Campus",
+        "category": "Shoes",
+        "price": 1399.0,
+        "product_url": "https://www.amazon.in/Campus-Mens-Coil-Running-Shoes/dp/B0F8R2WNNT/ref=sr_1_20?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-20",
+        "image_path": "product_data/product_images/product_0079.jpg"
+    },
+    {
+        "id": "product_0080",
+        "name": "ATHCO",
+        "category": "Shoes",
+        "price": 729.0,
+        "product_url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo3NTYxMTc3NjY4MTkyNzQxOjE3NTQ4MTgxOTU6c3BfbXRmOjMwMDQ1NDAwMjg0NTMzMjo6MDo6&url=%2FATHCO-Koach-Running-Shoes_08-ATHST-46%2Fdp%2FB0D2N6SGF3%2Fref%3Dsr_1_21_sspa%3Fdib%3DeyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w%26dib_tag%3Dse%26keywords%3Drunning%2Bshoes%2Bfor%2Bmen%26qid%3D1754818195%26sr%3D8-21-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&sp_cr=DUB",
+        "image_path": "product_data/product_images/product_0080.jpg"
+    },
+    {
+        "id": "product_0081",
+        "name": "ATHCO",
+        "category": "Shoes",
+        "price": 729.0,
+        "product_url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo3NTYxMTc3NjY4MTkyNzQxOjE3NTQ4MTgxOTU6c3BfbXRmOjMwMDU4NDQyODU1NDQzMjo6MDo6&url=%2FATHCO-Crysta-Running-Shoes_08-ATHST-45%2Fdp%2FB0CYPJPT5P%2Fref%3Dsr_1_22_sspa%3Fdib%3DeyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w%26dib_tag%3Dse%26keywords%3Drunning%2Bshoes%2Bfor%2Bmen%26qid%3D1754818195%26sr%3D8-22-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&sp_cr=DUB",
+        "image_path": "product_data/product_images/product_0081.jpg"
+    },
+    {
+        "id": "product_0082",
+        "name": "OFF LIMITS",
+        "category": "Shoes",
+        "price": 1430.0,
+        "product_url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo3NTYxMTc3NjY4MTkyNzQxOjE3NTQ4MTgxOTU6c3BfbXRmOjMwMDM1NTU0MTA1NDQzMjo6MDo6&url=%2FOFF-LIMITS-Lightweight-Comfortable-Shock-Absorption%2Fdp%2FB0D6BPWBJJ%2Fref%3Dsr_1_23_sspa%3Fdib%3DeyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w%26dib_tag%3Dse%26keywords%3Drunning%2Bshoes%2Bfor%2Bmen%26qid%3D1754818195%26sr%3D8-23-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&sp_cr=DUB",
+        "image_path": "product_data/product_images/product_0082.jpg"
+    },
+    {
+        "id": "product_0083",
+        "name": "ATHCO",
+        "category": "Shoes",
+        "price": 729.0,
+        "product_url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo3NTYxMTc3NjY4MTkyNzQxOjE3NTQ4MTgxOTU6c3BfbXRmOjMwMDQ1NDAxOTI3MzAzMjo6MDo6&url=%2FATHCO-Houston-Running-Shoes_09-ATHST-2%2Fdp%2FB0CWP73X44%2Fref%3Dsr_1_24_sspa%3Fdib%3DeyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w%26dib_tag%3Dse%26keywords%3Drunning%2Bshoes%2Bfor%2Bmen%26qid%3D1754818195%26sr%3D8-24-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&sp_cr=DUB",
+        "image_path": "product_data/product_images/product_0083.jpg"
+    },
+    {
+        "id": "product_0084",
+        "name": "ATHCO",
+        "category": "Shoes",
+        "price": 699.0,
+        "product_url": "https://www.amazon.in/ATHCO-Akron-Running-Shoes_10-ATHST-15/dp/B0CMJDBXL9/ref=sr_1_25?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-25",
+        "image_path": "product_data/product_images/product_0084.jpg"
+    },
+    {
+        "id": "product_0085",
+        "name": "adidas",
+        "category": "Shoes",
+        "price": 2742.0,
+        "product_url": "https://www.amazon.in/adidas-Galaxy-SHANAV-WONBLU-Running/dp/B0CPVR733D/ref=sr_1_26?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-26",
+        "image_path": "product_data/product_images/product_0085.jpg"
+    },
+    {
+        "id": "product_0086",
+        "name": "Campus",
+        "category": "Shoes",
+        "price": 1099.0,
+        "product_url": "https://www.amazon.in/Campus-Tormentor-Running-Shoes-India/dp/B09KNJJ1CT/ref=sr_1_27?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-27",
+        "image_path": "product_data/product_images/product_0086.jpg"
+    },
+    {
+        "id": "product_0087",
+        "name": "Campus",
+        "category": "Shoes",
+        "price": 1099.0,
+        "product_url": "https://www.amazon.in/Campus-Abacus-L-GRN-Running-Shoes/dp/B09JPB3C8L/ref=sr_1_28?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-28",
+        "image_path": "product_data/product_images/product_0087.jpg"
+    },
+    {
+        "id": "product_0088",
+        "name": "SPARX",
+        "category": "Shoes",
+        "price": 824.0,
+        "product_url": "https://www.amazon.in/Sparx-Black-White-Running-Shoes/dp/B01MSJNMFE/ref=sr_1_29?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-29",
+        "image_path": "product_data/product_images/product_0088.jpg"
+    },
+    {
+        "id": "product_0089",
+        "name": "Impakto",
+        "category": "Shoes",
+        "price": 999.0,
+        "product_url": "https://www.amazon.in/Impakto-Barefoot-Rooted-Big-Toe/dp/B0DCP51SXY/ref=sr_1_30?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-30",
+        "image_path": "product_data/product_images/product_0089.jpg"
+    },
+    {
+        "id": "product_0090",
+        "name": "Nike",
+        "category": "Shoes",
+        "price": 4295.0,
+        "product_url": "https://www.amazon.in/Nike-Downshifter-13-Midnight-Platinum-Black-White-9Uk-Running/dp/B0CSKPT134/ref=sr_1_31?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-31",
+        "image_path": "product_data/product_images/product_0090.jpg"
+    },
+    {
+        "id": "product_0091",
+        "name": "Campus",
+        "category": "Shoes",
+        "price": 849.0,
+        "product_url": "https://www.amazon.in/Campus-Hurricane-Running-Shoes-India/dp/B09RPQJTK4/ref=sr_1_32?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-32",
+        "image_path": "product_data/product_images/product_0091.jpg"
+    },
+    {
+        "id": "product_0092",
+        "name": "ATHCO",
+        "category": "Shoes",
+        "price": 729.0,
+        "product_url": "https://www.amazon.in/ATHCO-Houston-Running-Shoes_08-ATHST-2/dp/B0CWP5ZKT2/ref=sr_1_33?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-33",
+        "image_path": "product_data/product_images/product_0092.jpg"
+    },
+    {
+        "id": "product_0093",
+        "name": "LigeroNation",
+        "category": "Shoes",
+        "price": 498.0,
+        "product_url": "https://www.amazon.in/LigeroNation-Running-Walking-Lightweight-Sneaker/dp/B0F63SYVMX/ref=sr_1_34?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-34",
+        "image_path": "product_data/product_images/product_0093.jpg"
+    },
+    {
+        "id": "product_0094",
+        "name": "Reebok",
+        "category": "Shoes",
+        "price": 1260.0,
+        "product_url": "https://www.amazon.in/Reebok-Synthetic-Textile-Stride-Running/dp/B0B5HK57KQ/ref=sr_1_35?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-35",
+        "image_path": "product_data/product_images/product_0094.jpg"
+    },
+    {
+        "id": "product_0095",
+        "name": "SPARX",
+        "category": "Shoes",
+        "price": 1236.0,
+        "product_url": "https://www.amazon.in/Sparx-White-Running-Shoes-8-SX0171G_WHWH0008/dp/B07YP2F21T/ref=sr_1_36?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-36",
+        "image_path": "product_data/product_images/product_0095.jpg"
+    },
+    {
+        "id": "product_0096",
+        "name": "Nike",
+        "category": "Shoes",
+        "price": 2797.0,
+        "product_url": "https://www.amazon.in/Nike-DEFY-Black-Cool-Grey-University-RED-WHITE-HM9594-001-10UK/dp/B0DZWJ88PX/ref=sr_1_37?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-37",
+        "image_path": "product_data/product_images/product_0096.jpg"
+    },
+    {
+        "id": "product_0097",
+        "name": "ASICS",
+        "category": "Shoes",
+        "price": 2749.0,
+        "product_url": "https://www.amazon.in/ASICS-Trail-Scout-Night-Running/dp/B0CYT11ZV3/ref=sr_1_38?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-38",
+        "image_path": "product_data/product_images/product_0097.jpg"
+    },
+    {
+        "id": "product_0098",
+        "name": "Puma",
+        "category": "Shoes",
+        "price": 1599.0,
+        "product_url": "https://www.amazon.in/Puma-Mens-Ultimate-Ease-Everglide/dp/B0B51HCRS8/ref=sr_1_39?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-39",
+        "image_path": "product_data/product_images/product_0098.jpg"
+    },
+    {
+        "id": "product_0099",
+        "name": "SPARX",
+        "category": "Shoes",
+        "price": 1387.0,
+        "product_url": "https://www.amazon.in/SPARX-Enhanced-Durability-Cushion-Running/dp/B09CH69PP5/ref=sr_1_40?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-40",
+        "image_path": "product_data/product_images/product_0099.jpg"
+    },
+    {
+        "id": "product_0100",
+        "name": "ASIAN",
+        "category": "Shoes",
+        "price": 799.0,
+        "product_url": "https://www.amazon.in/ASIAN-Thar-01-Running-Walking-Sneaker/dp/B0BBB8ZCCR/ref=sr_1_41?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-41",
+        "image_path": "product_data/product_images/product_0100.jpg"
+    },
+    {
+        "id": "product_0101",
+        "name": "Puma",
+        "category": "Shoes",
+        "price": 1549.0,
+        "product_url": "https://www.amazon.in/Puma-Snatch-Black-Puma-White-Sneaker/dp/B09RG9CW29/ref=sr_1_42?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-42",
+        "image_path": "product_data/product_images/product_0101.jpg"
+    },
+    {
+        "id": "product_0102",
+        "name": "Skechers",
+        "category": "Shoes",
+        "price": 1845.0,
+        "product_url": "https://www.amazon.in/Skechers-Men-Run-400-CCRD/dp/B0BQHSPK87/ref=sr_1_43?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-43",
+        "image_path": "product_data/product_images/product_0102.jpg"
+    },
+    {
+        "id": "product_0103",
+        "name": "Reebok",
+        "category": "Shoes",
+        "price": 1539.0,
+        "product_url": "https://www.amazon.in/Reebok-Sports-Advent-Ideal-Running/dp/B08FZRYSVW/ref=sr_1_44?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-44",
+        "image_path": "product_data/product_images/product_0103.jpg"
+    },
+    {
+        "id": "product_0104",
+        "name": "AVANT",
+        "category": "Shoes",
+        "price": 945.0,
+        "product_url": "https://www.amazon.in/AVANT-SpartanX-Running-L-Grey-AVMSH117CL01UK8/dp/B0CW5YNS1C/ref=sr_1_45?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-45",
+        "image_path": "product_data/product_images/product_0104.jpg"
+    },
+    {
+        "id": "product_0105",
+        "name": "Puma",
+        "category": "Shoes",
+        "price": 3499.0,
+        "product_url": "https://www.amazon.in/Puma-Black-Lime-Smash-Strong-Shoe-7UK-31176701/dp/B0DW96GPYZ/ref=sr_1_46?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-46",
+        "image_path": "product_data/product_images/product_0105.jpg"
+    },
+    {
+        "id": "product_0106",
+        "name": "ASIAN",
+        "category": "Shoes",
+        "price": 674.0,
+        "product_url": "https://www.amazon.in/ASIAN-Running-Training-Walking-Numeric_8/dp/B09QM5H86B/ref=sr_1_47?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-47",
+        "image_path": "product_data/product_images/product_0106.jpg"
+    },
+    {
+        "id": "product_0107",
+        "name": "ASIAN",
+        "category": "Shoes",
+        "price": 769.0,
+        "product_url": "https://www.amazon.in/ASIAN-CAPTAIN-13-Running-Walking-Lightweight/dp/B0CGR7XQH1/ref=sr_1_48?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-48",
+        "image_path": "product_data/product_images/product_0107.jpg"
+    },
+    {
+        "id": "product_0108",
+        "name": "Reebok",
+        "category": "Shoes",
+        "price": 1539.0,
+        "product_url": "https://www.amazon.in/Reebok-Runing-Sports-Energy-Runner/dp/B08D3L7853/ref=sr_1_49?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-49",
+        "image_path": "product_data/product_images/product_0108.jpg"
+    },
+    {
+        "id": "product_0109",
+        "name": "ASICS",
+        "category": "Shoes",
+        "price": 5399.0,
+        "product_url": "https://www.amazon.in/ASICS-Mens-Gel-Contend-Running-Shoes/dp/B0DS654NV5/ref=sr_1_50?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-50",
+        "image_path": "product_data/product_images/product_0109.jpg"
+    },
+    {
+        "id": "product_0110",
+        "name": "Campus",
+        "category": "Shoes",
+        "price": 749.0,
+        "product_url": "https://www.amazon.in/Campus-Crysta-PRO-T-BLU-Running/dp/B09RBFVDLB/ref=sr_1_51?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-51",
+        "image_path": "product_data/product_images/product_0110.jpg"
+    },
+    {
+        "id": "product_0111",
+        "name": "ASICS",
+        "category": "Shoes",
+        "price": 4499.0,
+        "product_url": "https://www.amazon.in/ASICS-Gel-Excite-Matcha-Sunstone-Running/dp/B0D9BPMY88/ref=sr_1_52?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-52",
+        "image_path": "product_data/product_images/product_0111.jpg"
+    },
+    {
+        "id": "product_0112",
+        "name": "Campus",
+        "category": "Shoes",
+        "price": 649.0,
+        "product_url": "https://www.amazon.in/Campus-OXYFIT-D-Gry-Walking-Shoes/dp/B09RPC54GK/ref=sr_1_53?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-53",
+        "image_path": "product_data/product_images/product_0112.jpg"
+    },
+    {
+        "id": "product_0113",
+        "name": "Puma",
+        "category": "Shoes",
+        "price": 3024.0,
+        "product_url": "https://www.amazon.in/Puma-Calit-Persian-Red-Sedate-Running/dp/B0CKYRMDPF/ref=sr_1_54?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-54",
+        "image_path": "product_data/product_images/product_0113.jpg"
+    },
+    {
+        "id": "product_0114",
+        "name": "Skechers",
+        "category": "Shoes",
+        "price": 2474.0,
+        "product_url": "https://www.amazon.in/Skechers-mens-Terrenex-YELLOW-Running/dp/B0CRRDW6WG/ref=sr_1_55?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-55",
+        "image_path": "product_data/product_images/product_0114.jpg"
+    },
+    {
+        "id": "product_0115",
+        "name": "adidas",
+        "category": "Shoes",
+        "price": 1387.0,
+        "product_url": "https://www.amazon.in/Adidas-Mens-Opticrun-Running-Shoes/dp/B0DBZKYBQB/ref=sr_1_56?dib=eyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w&dib_tag=se&keywords=running+shoes+for+men&qid=1754818195&sr=8-56",
+        "image_path": "product_data/product_images/product_0115.jpg"
+    },
+    {
+        "id": "product_0116",
+        "name": "Reebok",
+        "category": "Shoes",
+        "price": 1499.0,
+        "product_url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo3NTYxMTc3NjY4MTkyNzQxOjE3NTQ4MTgxOTU6c3BfYnRmOjMwMDUwNTk1MTU1MTMzMjo6MDo6&url=%2FReebok-Synthetic-Textile-Stride-Running%2Fdp%2FB0B5HL3VRF%2Fref%3Dsr_1_57_sspa%3Fdib%3DeyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w%26dib_tag%3Dse%26keywords%3Drunning%2Bshoes%2Bfor%2Bmen%26qid%3D1754818195%26sr%3D8-57-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&sp_cr=DUB",
+        "image_path": "product_data/product_images/product_0116.jpg"
+    },
+    {
+        "id": "product_0117",
+        "name": "Reebok",
+        "category": "Shoes",
+        "price": 2400.0,
+        "product_url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo3NTYxMTc3NjY4MTkyNzQxOjE3NTQ4MTgxOTU6c3BfYnRmOjMwMDUwNTk1MTU0NTUzMjo6MDo6&url=%2FReebok-COMFORT-INFUSED-GREY-BLACK-NACHO-Running%2Fdp%2FB094VFGVSH%2Fref%3Dsr_1_58_sspa%3Fdib%3DeyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w%26dib_tag%3Dse%26keywords%3Drunning%2Bshoes%2Bfor%2Bmen%26qid%3D1754818195%26sr%3D8-58-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&sp_cr=DUB",
+        "image_path": "product_data/product_images/product_0117.jpg"
+    },
+    {
+        "id": "product_0118",
+        "name": "ATHCO",
+        "category": "Shoes",
+        "price": 699.0,
+        "product_url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo3NTYxMTc3NjY4MTkyNzQxOjE3NTQ4MTgxOTU6c3BfYnRmOjMwMDU4NDU2MDE5NjQzMjo6MDo6&url=%2FATHCO-Akron-Running-Shoes_8-ATHST-15%2Fdp%2FB0CMJHT5M8%2Fref%3Dsr_1_59_sspa%3Fdib%3DeyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w%26dib_tag%3Dse%26keywords%3Drunning%2Bshoes%2Bfor%2Bmen%26qid%3D1754818195%26sr%3D8-59-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&sp_cr=DUB",
+        "image_path": "product_data/product_images/product_0118.jpg"
+    },
+    {
+        "id": "product_0119",
+        "name": "RXN",
+        "category": "Shoes",
+        "price": 1190.0,
+        "product_url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo3NTYxMTc3NjY4MTkyNzQxOjE3NTQ4MTgxOTU6c3BfYnRmOjMwMDYwODI4MjE0NjAzMjo6MDo6&url=%2FRXN-Running-Sprinting-Footwear-Numeric%2Fdp%2FB0DGQ7LW4L%2Fref%3Dsr_1_60_sspa%3Fdib%3DeyJ2IjoiMSJ9.VFiv2ap2sGFGFTnsukXAcmrlYLXFIUwFaP0WPmEt_AnbkI5BfGxt537x__-uQZrf1Ph6_eqcDLtjpN5hxsGo53JKDmlu86MNmVKqfZN0uXVuxz-KI08wCUCH1AMd92o1s4gS0TBZSwg-Zx5OamvbCVNsCpDSQbS4pFQWY1hdWKdQfErsnoLPdYg1QIcsk10sxinYouFl9W2WZyrr85jt6eBAoosA21Rmyq-hN1T4QWnO9lNDvxVpg6YtNKCRs2uy4PqPgaeUCwFEBxY0qkaRTHd61sM4nzsXI11vXd6oBWs.0XcEOxett_KB505Mtvnd2D1vD4W8YqE9EJ5xG8Dij5w%26dib_tag%3Dse%26keywords%3Drunning%2Bshoes%2Bfor%2Bmen%26qid%3D1754818195%26sr%3D8-60-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&sp_cr=DUB",
+        "image_path": "product_data/product_images/product_0119.jpg"
+    },
+    {
+        "id": "product_0120",
+        "name": "Neonnest Laptop Table For Upto 35.56 cm (14) Black Light weight",
+        "category": "Laptops",
+        "price": 476.0,
+        "product_url": "https://www.snapdeal.com/product/neonnest-laptop-table-for-upto/6917529690550176557",
+        "image_path": "product_data/product_images/product_0120.jpg"
+    },
+    {
+        "id": "product_0121",
+        "name": "Neonnest Laptop Table For Upto 35.56 cm (14) Brown Light weight",
+        "category": "Laptops",
+        "price": 476.0,
+        "product_url": "https://www.snapdeal.com/product/neonnest-laptop-table-for-upto/5764608185943329581",
+        "image_path": "product_data/product_images/product_0121.jpg"
+    },
+    {
+        "id": "product_0122",
+        "name": "krishiv Grey Laptop Sleeves",
+        "category": "Laptops",
+        "price": 298.0,
+        "product_url": "https://www.snapdeal.com/product/krishiv-blue-laptop-sleeves/676026247467",
+        "image_path": "product_data/product_images/product_0122.jpg"
+    },
+    {
+        "id": "product_0123",
+        "name": "Abgrow Black PU Office Bag with 15.6 Inch Expandable Laptop Sleeve Messenger Bag",
+        "category": "Laptops",
+        "price": 401.0,
+        "product_url": "https://www.snapdeal.com/product/abgrow-black-leather-office-bag/686864587670",
+        "image_path": "product_data/product_images/product_0123.jpg"
+    },
+    {
+        "id": "product_0124",
+        "name": "Portronics - Metal Laptop Stand ( Pack of 1 )",
+        "category": "Laptops",
+        "price": 310.0,
+        "product_url": "https://www.snapdeal.com/product/portronics-metal-laptop-stand-pack/673530012717",
+        "image_path": "product_data/product_images/product_0124.jpg"
+    },
+    {
+        "id": "product_0125",
+        "name": "DALUCI Gel Cleaner for Car Interior Dust Cleaner for Keyboard Computer Laptop Home Office Window Grill & Electronics Cleaning Gel - (Blue) (1)",
+        "category": "Laptops",
+        "price": 105.0,
+        "product_url": "https://www.snapdeal.com/product/daluci-gel-cleaner-for-car/674570013575",
+        "image_path": "product_data/product_images/product_0125.jpg"
+    },
+    {
+        "id": "product_0126",
+        "name": "Upix 3 Pin Power Cord for Laptop - 1.3 Meters",
+        "category": "Laptops",
+        "price": 165.0,
+        "product_url": "https://www.snapdeal.com/product/upix-15m-power-cord-supreme/650456526023",
+        "image_path": "product_data/product_images/product_0126.jpg"
+    },
+    {
+        "id": "product_0127",
+        "name": "English Learner Educational Laptop Toy for Kids with 20 Learning Activities | Blue & White |",
+        "category": "Laptops",
+        "price": 873.0,
+        "product_url": "https://www.snapdeal.com/product/english-learner-educational-laptop-toy/638203608006",
+        "image_path": "product_data/product_images/product_0127.jpg"
+    },
+    {
+        "id": "product_0128",
+        "name": "Kadio Educational Laptop for Kids w/ Mouse Games 20 Fun Computer Activity Learning Toy for 2 3 4 5 Years Boys Girls Learn Letters Words Mathematics Music Logic Memory Tool, Blue",
+        "category": "Laptops",
+        "price": 768.0,
+        "product_url": "https://www.snapdeal.com/product/kadio-educational-laptop-for-kids/650418197810",
+        "image_path": "product_data/product_images/product_0128.jpg"
+    },
+    {
+        "id": "product_0129",
+        "name": "Portronics MY Buddy K 4:Portable Laptop Stand ,Black (POR 1460)",
+        "category": "Laptops",
+        "price": 256.0,
+        "product_url": "https://www.snapdeal.com/product/portronics-laptop-table-for-upto/624665588352",
+        "image_path": "product_data/product_images/product_0129.jpg"
+    },
+    {
+        "id": "product_0130",
+        "name": "Adbeni Laptop Table For Upto 38.1 cm (15) Silver Laptop/TAB/Mobile Stand",
+        "category": "Laptops",
+        "price": 356.0,
+        "product_url": "https://www.snapdeal.com/product/adbeni-laptop-table-for-upto/644176091505",
+        "image_path": "product_data/product_images/product_0130.jpg"
+    },
+    {
+        "id": "product_0131",
+        "name": "Raylan Brown Leather Office Bag",
+        "category": "Laptops",
+        "price": 550.0,
+        "product_url": "https://www.snapdeal.com/product/raylan-brown-leather-office-bag/660599537065",
+        "image_path": "product_data/product_images/product_0131.jpg"
+    },
+    {
+        "id": "product_0132",
+        "name": "Crust Laptop Charger / Inverter N80 Black",
+        "category": "Laptops",
+        "price": 1338.0,
+        "product_url": "https://www.snapdeal.com/product/crust-laptop-charger-inverter-n80/686155959550",
+        "image_path": "product_data/product_images/product_0132.jpg"
+    },
+    {
+        "id": "product_0133",
+        "name": "STRAPIT Black Laptop Sleeves",
+        "category": "Laptops",
+        "price": 266.0,
+        "product_url": "https://www.snapdeal.com/product/strapit-black-laptop-sleeves/656177158539",
+        "image_path": "product_data/product_images/product_0133.jpg"
+    },
+    {
+        "id": "product_0134",
+        "name": "STRAPIT Grey Laptop Sleeves Bag",
+        "category": "Laptops",
+        "price": 266.0,
+        "product_url": "https://www.snapdeal.com/product/strapit-grey-laptop-sleeves/622662404657",
+        "image_path": "product_data/product_images/product_0134.jpg"
+    },
+    {
+        "id": "product_0135",
+        "name": "Upix Laptop Sleeve | Laptop Sleeve 10.5 inch, (Black + Red) for Men & Women Laptop Bag",
+        "category": "Laptops",
+        "price": 134.0,
+        "product_url": "https://www.snapdeal.com/product/upix-black-laptop-sleeves/619621592046",
+        "image_path": "product_data/product_images/product_0135.jpg"
+    },
+    {
+        "id": "product_0136",
+        "name": "Magnique 6 Angles Adjustable Aluminum Foldable Portable Laptop Riser Stand for All Laptops (Silver)",
+        "category": "Laptops",
+        "price": 313.0,
+        "product_url": "https://www.snapdeal.com/product/magnique-metal-laptop-stand-pack/670009229089",
+        "image_path": "product_data/product_images/product_0136.jpg"
+    },
+    {
+        "id": "product_0137",
+        "name": "CLUCI 27 Ltrs Grey Laptop Bags",
+        "category": "Laptops",
+        "price": 419.0,
+        "product_url": "https://www.snapdeal.com/product/cluci-27-ltrs-maroon-laptop/684517739844",
+        "image_path": "product_data/product_images/product_0137.jpg"
+    },
+    {
+        "id": "product_0138",
+        "name": "Martucci 45 Ltrs Black Laptop Bags",
+        "category": "Laptops",
+        "price": 544.0,
+        "product_url": "https://www.snapdeal.com/product/martucci-45-ltrs-black-laptop/632298275954",
+        "image_path": "product_data/product_images/product_0138.jpg"
+    },
+    {
+        "id": "product_0139",
+        "name": "Gau Sudh 25 Ltrs Multi Laptop Bags",
+        "category": "Laptops",
+        "price": 444.0,
+        "product_url": "https://www.snapdeal.com/product/gau-sudh-25-ltrs-multi/653398835532",
+        "image_path": "product_data/product_images/product_0139.jpg"
+    },
+    {
+        "id": "product_0140",
+        "name": "Rangwell Bluetooth Selfie Stick ( Black )",
+        "category": "Mobiles",
+        "price": 558.0,
+        "product_url": "https://www.snapdeal.com/product/rangwell-bluetooth-selfie-stick-black-/667664120641",
+        "image_path": "product_data/product_images/product_0140.jpg"
+    },
+    {
+        "id": "product_0141",
+        "name": "UNICAL Impact Resistant Mobile Stickers for Smartphones and Tablets ( Black )",
+        "category": "Mobiles",
+        "price": 99.0,
+        "product_url": "https://www.snapdeal.com/product/unical-impact-resistant-mobile-stickers/664759998368",
+        "image_path": "product_data/product_images/product_0141.jpg"
+    },
+    {
+        "id": "product_0142",
+        "name": "Tecsox Foldable Connectors for Smartphones ( Black )",
+        "category": "Mobiles",
+        "price": 123.0,
+        "product_url": "https://www.snapdeal.com/product/tecsox-foldable-connectors-for-smartphones/633756336904",
+        "image_path": "product_data/product_images/product_0142.jpg"
+    },
+    {
+        "id": "product_0143",
+        "name": "Casewilla Bluetooth Selfie Stick ( Black )",
+        "category": "Mobiles",
+        "price": 249.0,
+        "product_url": "https://www.snapdeal.com/product/casewilla-bluetooth-selfie-stick-black-/653689509043",
+        "image_path": "product_data/product_images/product_0143.jpg"
+    },
+    {
+        "id": "product_0144",
+        "name": "HUG PUPPY Bluetooth Selfie Stick ( Black )",
+        "category": "Mobiles",
+        "price": 176.0,
+        "product_url": "https://www.snapdeal.com/product/hug-puppy-bluetooth-selfie-stick/638926123616",
+        "image_path": "product_data/product_images/product_0144.jpg"
+    },
+    {
+        "id": "product_0145",
+        "name": "HUG PUPPY Bluetooth Selfie Stick ( Black )",
+        "category": "Mobiles",
+        "price": 193.0,
+        "product_url": "https://www.snapdeal.com/product/hug-puppy-bluetooth-selfie-stick/635919338578",
+        "image_path": "product_data/product_images/product_0145.jpg"
+    },
+    {
+        "id": "product_0146",
+        "name": "Universal Bike Mobile Stand Metal Body 360 Degree Rotating | Mirror Cradle Stand Full Metal Body Bike & Scooty Mobile Holder Stand for Bicycle, Motorcycle, Scooty with All Smartphones",
+        "category": "Mobiles",
+        "price": 153.0,
+        "product_url": "https://www.snapdeal.com/product/universal-bike-mobile-stand-metal/626318451891",
+        "image_path": "product_data/product_images/product_0146.jpg"
+    },
+    {
+        "id": "product_0147",
+        "name": "Universal 3-in-1 Charging Cable for Smartphones, Tablets, and More",
+        "category": "Mobiles",
         "price": 150.0,
-        "image_path": "product_data\\product_images\\watch003.jpeg"
+        "product_url": "https://www.snapdeal.com/product/universal-3in1-charging-cable-for/654150328513",
+        "image_path": "product_data/product_images/product_0147.jpg"
     },
     {
-        "id": "watch004",
-        "name": "Lovely watch",
-        "category": "Watches",
+        "id": "product_0148",
+        "name": "Shop To Shop Bluetooth Selfie Flash Light ( Black )",
+        "category": "Mobiles",
+        "price": 235.0,
+        "product_url": "https://www.snapdeal.com/product/shop-to-shop-bluetooth-selfie/687038762023",
+        "image_path": "product_data/product_images/product_0148.jpg"
+    },
+    {
+        "id": "product_0149",
+        "name": "Shop To Shop Bluetooth Selfie Flash Light ( Black )",
+        "category": "Mobiles",
+        "price": 227.0,
+        "product_url": "https://www.snapdeal.com/product/shop-to-shop-bluetooth-selfie/646259000214",
+        "image_path": "product_data/product_images/product_0149.jpg"
+    },
+    {
+        "id": "product_0150",
+        "name": "Tecsox - Adjustable Mobile Holder for Smartphones ( Black )",
+        "category": "Mobiles",
+        "price": 396.0,
+        "product_url": "https://www.snapdeal.com/product/nbox-adjustable-mobile-holder-for/626200316583",
+        "image_path": "product_data/product_images/product_0150.jpg"
+    },
+    {
+        "id": "product_0151",
+        "name": "UNICAL Shock Resistant Cable Protector for Smartphones and Tablets ( Multicolor )",
+        "category": "Mobiles",
+        "price": 91.0,
+        "product_url": "https://www.snapdeal.com/product/unical-shock-resistant-cable-protector/643117396448",
+        "image_path": "product_data/product_images/product_0151.jpg"
+    },
+    {
+        "id": "product_0152",
+        "name": "Yashvi Traders Aux Wire Monopod ( Multicolor )",
+        "category": "Mobiles",
+        "price": 167.0,
+        "product_url": "https://www.snapdeal.com/product/yashvi-traders-aux-wire-monopod/629438085373",
+        "image_path": "product_data/product_images/product_0152.jpg"
+    },
+    {
+        "id": "product_0153",
+        "name": "Elv Foldable Mobile Holder for Smartphones and Tablets ( Black )",
+        "category": "Mobiles",
+        "price": 167.0,
+        "product_url": "https://www.snapdeal.com/product/elv-foldable-mobile-holder-for/669549199958",
+        "image_path": "product_data/product_images/product_0153.jpg"
+    },
+    {
+        "id": "product_0154",
+        "name": "Casewilla Not Applicable Tripod ( Multicolor )",
+        "category": "Mobiles",
+        "price": 913.0,
+        "product_url": "https://www.snapdeal.com/product/casewilla-not-applicable-tripod-multicolor-/642965804614",
+        "image_path": "product_data/product_images/product_0154.jpg"
+    },
+    {
+        "id": "product_0155",
+        "name": "Casewilla Not Applicable Selfie Ring Light ( White )",
+        "category": "Mobiles",
         "price": 300.0,
-        "image_path": "product_data\\product_images\\watch004.jpeg"
+        "product_url": "https://www.snapdeal.com/product/casewilla-not-applicable-selfie-ring/623618513485",
+        "image_path": "product_data/product_images/product_0155.jpg"
     },
     {
-    "id": "watch005",
-    "name": "Apple Watch",
-    "category": "Watches",
-    "price": 199.99,
-    "image_path": "product_data\\product_images\\watch005.jpeg"
-    },
-    {
-        "id": "chair001",
-        "name": "wooden chairs",
-        "category": "Furniture",
-        "price": 220.0,
-        "image_path": "product_data\\product_images\\chair001.jpeg"
-    },
-    {
-        "id": "chair002",
-        "name": "Wooden Dining Chair",
-        "category": "Furniture",
-        "price": 180.75,
-        "image_path": "product_data\\product_images\\chair002.jpeg"
-    },
-    {
-        "id": "chair003",
-        "name": "Modern Accent Chair",
-        "category": "Furniture",
-        "price": 75.0,
-        "image_path": "product_data\\product_images\\chair003.jpeg"
-    },
-    {
-        "id": "chair004",
-        "name": "Ergonomic Office Chair",
-        "category": "Furniture",
-        "price": 350.0,
-        "image_path": "product_data\\product_images\\chair004.jpeg"
-    },
-     {
-        "id": "IQOO Z9X 001",
-        "name": "IQOO Z9",
+        "id": "product_0156",
+        "name": "Casewilla Not Applicable Tripod ( Black )",
         "category": "Mobiles",
-        "price": 350.0,
-        "image_path": "product_data\\product_images\\IQOO z9 001.jpeg"
-    },
-     {
-        "id": "IQOO Z9X 002",
-        "name": "IQOO Z9",
-        "category": "Mobiles",
-        "price": 399.0,
-        "image_path": "product_data\\product_images\\IQOO z9 002.jpeg"
-    },
-      {
-        "id": "IQOO Z9S 003",
-        "name": "IQOO Z9",
-        "category": "Mobiles",
-        "price": 399.0,
-        "image_path": "product_data\\product_images\\IQOO Z9S 003.jpeg"
-    },
-     {
-        "id": "realme buds 001",
-        "name": "realme",
-        "category": "Buds",
-        "price": 399.0,
-        "image_path": "product_data\\product_images\\realme buds 001.jpeg"
-    },
-     {
-        "id": "oneplus buds002",
-        "name": "oneplus",
-        "category": "Buds",
-        "price": 399.0,
-        "image_path": "product_data\\product_images\\oneplus buds002.jpeg"
-    },
-     {
-        "id": "Air pods003",
-        "name": "Air pods",
-        "category": "Buds",
-        "price": 699.0,
-        "image_path": "product_data\\product_images\\Air pods003.jpeg"
+        "price": 648.0,
+        "product_url": "https://www.snapdeal.com/product/casewilla-not-applicable-tripod-black-/620757901295",
+        "image_path": "product_data/product_images/product_0156.jpg"
     },
     {
-        "id": "Apple laptop001",
-        "name": "Macbook",
-        "category": "Buds",
-        "price": 699.0,
-        "image_path": "product_data\\product_images\\apple laptop 001.jpeg"
+        "id": "product_0157",
+        "name": "Elv Remote Holder Mobile Stand for Smartphones ( White )",
+        "category": "Mobiles",
+        "price": 167.0,
+        "product_url": "https://www.snapdeal.com/product/elv-remote-holder-mobile-stand/674188993382",
+        "image_path": "product_data/product_images/product_0157.jpg"
+    },
+    {
+        "id": "product_0158",
+        "name": "Shop To Shop Bluetooth Selfie Flash Light ( Black )",
+        "category": "Mobiles",
+        "price": 227.0,
+        "product_url": "https://www.snapdeal.com/product/shop-to-shop-bluetooth-selfie/673937556634",
+        "image_path": "product_data/product_images/product_0158.jpg"
+    },
+    {
+        "id": "product_0159",
+        "name": "Shop To Shop Bluetooth Selfie Flash Light ( Black )",
+        "category": "Mobiles",
+        "price": 210.0,
+        "product_url": "https://www.snapdeal.com/product/shop-to-shop-bluetooth-selfie/668498736735",
+        "image_path": "product_data/product_images/product_0159.jpg"
+    },
+    {
+        "id": "product_0160",
+        "name": "MAHALUXMI COLLECTION 1 Seater Polyester Chair Cover ( Pack of 4 )",
+        "category": "Furniture",
+        "price": 367.0,
+        "product_url": "https://www.snapdeal.com/product/mahaluxmi-collection-1-seater-polyester/7493990460960550659",
+        "image_path": "product_data/product_images/product_0160.jpg"
+    },
+    {
+        "id": "product_0161",
+        "name": "GIFTS ISLAND 6 Seater Velvet Chair Cover ( Pack of 6 )",
+        "category": "Furniture",
+        "price": 870.0,
+        "product_url": "https://www.snapdeal.com/product/gifts-island-6-seater-velvet/7493990402713310831",
+        "image_path": "product_data/product_images/product_0161.jpg"
+    },
+    {
+        "id": "product_0162",
+        "name": "MAHALUXMI COLLECTION 1 Seater Polyester Chair Cover ( Pack of 4 )",
+        "category": "Furniture",
+        "price": 367.0,
+        "product_url": "https://www.snapdeal.com/product/mahaluxmi-collection-1-seater-polyester/6917529708657127171",
+        "image_path": "product_data/product_images/product_0162.jpg"
+    },
+    {
+        "id": "product_0163",
+        "name": "GIFTS ISLAND 6 Seater Velvet Chair Cover ( Pack of 6 )",
+        "category": "Furniture",
+        "price": 870.0,
+        "product_url": "https://www.snapdeal.com/product/gifts-island-6-seater-velvet/5188147393499616879",
+        "image_path": "product_data/product_images/product_0163.jpg"
+    },
+    {
+        "id": "product_0164",
+        "name": "GIFTS ISLAND 6 Seater Velvet Chair Cover ( Pack of 6 )",
+        "category": "Furniture",
+        "price": 870.0,
+        "product_url": "https://www.snapdeal.com/product/gifts-island-6-seater-velvet/6341068898106463855",
+        "image_path": "product_data/product_images/product_0164.jpg"
+    },
+    {
+        "id": "product_0165",
+        "name": "Cortina 4 Seater Polyester Chair Cover ( Pack of 4 )",
+        "category": "Furniture",
+        "price": 394.0,
+        "product_url": "https://www.snapdeal.com/product/hometales-4-seater-polyester-chair/6917529662342386182",
+        "image_path": "product_data/product_images/product_0165.jpg"
+    },
+    {
+        "id": "product_0166",
+        "name": "Mahaluxmi Creations 1 Seater Polyester Chair Cover ( Pack of 6 )",
+        "category": "Furniture",
+        "price": 477.0,
+        "product_url": "https://www.snapdeal.com/product/mahaluxmi-creations-1-seater-polyester/8070451208056257654",
+        "image_path": "product_data/product_images/product_0166.jpg"
+    },
+    {
+        "id": "product_0167",
+        "name": "Mahaluxmi Creations 1 Seater Polyester Chair Cover ( Pack of 6 )",
+        "category": "Furniture",
+        "price": 477.0,
+        "product_url": "https://www.snapdeal.com/product/mahaluxmi-creations-1-seater-polyester/7493990455752834166",
+        "image_path": "product_data/product_images/product_0167.jpg"
+    },
+    {
+        "id": "product_0168",
+        "name": "GIFTS ISLAND 6 Seater Polyester Chair Cover ( Pack of 6 )",
+        "category": "Furniture",
+        "price": 870.0,
+        "product_url": "https://www.snapdeal.com/product/gifts-island-6-seater-polyester/7493990403426253372",
+        "image_path": "product_data/product_images/product_0168.jpg"
+    },
+    {
+        "id": "product_0169",
+        "name": "MAHALUXMI COLLECTION 1 Seater Polyester Chair Cover ( Pack of 4 )",
+        "category": "Furniture",
+        "price": 367.0,
+        "product_url": "https://www.snapdeal.com/product/mahaluxmi-collection-1-seater-polyester/5188147451746856707",
+        "image_path": "product_data/product_images/product_0169.jpg"
+    },
+    {
+        "id": "product_0170",
+        "name": "Cortina - 1 Seater Polyester Chair Cover ( Pack of 1 )",
+        "category": "Furniture",
+        "price": 80.0,
+        "product_url": "https://www.snapdeal.com/product/hometales-set-of-6-polyester/5764608171642409189",
+        "image_path": "product_data/product_images/product_0170.jpg"
+    },
+    {
+        "id": "product_0171",
+        "name": "GIFTS ISLAND 6 Seater Polyester Chair Cover ( Pack of 6 )",
+        "category": "Furniture",
+        "price": 870.0,
+        "product_url": "https://www.snapdeal.com/product/gifts-island-6-seater-polyester/8646911963109345231",
+        "image_path": "product_data/product_images/product_0171.jpg"
+    },
+    {
+        "id": "product_0172",
+        "name": "Mahaluxmi Creations 1 Seater Polyester Chair Cover ( Pack of 6 )",
+        "category": "Furniture",
+        "price": 477.0,
+        "product_url": "https://www.snapdeal.com/product/mahaluxmi-creations-1-seater-polyester/8646911960359681142",
+        "image_path": "product_data/product_images/product_0172.jpg"
+    },
+    {
+        "id": "product_0173",
+        "name": "GIFTS ISLAND 6 Seater Polyester Chair Cover ( Pack of 6 )",
+        "category": "Furniture",
+        "price": 870.0,
+        "product_url": "https://www.snapdeal.com/product/gifts-island-6-seater-polyester/656516784951",
+        "image_path": "product_data/product_images/product_0173.jpg"
+    },
+    {
+        "id": "product_0174",
+        "name": "GIFTS ISLAND 6 Seater Polyester Chair Cover ( Pack of 6 )",
+        "category": "Furniture",
+        "price": 870.0,
+        "product_url": "https://www.snapdeal.com/product/gifts-island-6-seater-polyester/5764608201592227791",
+        "image_path": "product_data/product_images/product_0174.jpg"
+    },
+    {
+        "id": "product_0175",
+        "name": "Cortina - 1 Seater Polyester Chair Cover ( Pack of 4 )",
+        "category": "Furniture",
+        "price": 513.0,
+        "product_url": "https://www.snapdeal.com/product/hometales-set-of-6-polyester/6917529676249256165",
+        "image_path": "product_data/product_images/product_0175.jpg"
+    },
+    {
+        "id": "product_0176",
+        "name": "GIFTS ISLAND 6 Seater Velvet Chair Cover ( Pack of 6 )",
+        "category": "Furniture",
+        "price": 870.0,
+        "product_url": "https://www.snapdeal.com/product/gifts-island-6-seater-velvet/6917529650409887343",
+        "image_path": "product_data/product_images/product_0176.jpg"
+    },
+    {
+        "id": "product_0177",
+        "name": "MAHALUXMI COLLECTION 1 Seater Polyester Chair Cover ( Pack of 4 )",
+        "category": "Furniture",
+        "price": 367.0,
+        "product_url": "https://www.snapdeal.com/product/mahaluxmi-collection-1-seater-polyester/8070451213263974147",
+        "image_path": "product_data/product_images/product_0177.jpg"
+    },
+    {
+        "id": "product_0178",
+        "name": "Lazi 1 Seater Polyester Chair Cover ( Pack of 1 )",
+        "category": "Furniture",
+        "price": 353.0,
+        "product_url": "https://www.snapdeal.com/product/lazi-1-seater-polyester-chair/646107839992",
+        "image_path": "product_data/product_images/product_0178.jpg"
+    },
+    {
+        "id": "product_0179",
+        "name": "GIFTS ISLAND 6 Seater Polyester Chair Cover ( Pack of 6 )",
+        "category": "Furniture",
+        "price": 870.0,
+        "product_url": "https://www.snapdeal.com/product/gifts-island-6-seater-polyester/7493990463658172037",
+        "image_path": "product_data/product_images/product_0179.jpg"
+    },
+    {
+        "id": "product_0180",
+        "name": "DIVYA AMUE220003 Tablet 3 gm Pack of 3",
+        "category": "Tablets",
+        "price": 377.0,
+        "product_url": "https://www.snapdeal.com/product/divya-amue220003-tablet-3-gm/662279952731",
+        "image_path": "product_data/product_images/product_0180.jpg"
+    },
+    {
+        "id": "product_0181",
+        "name": "Goodcare Basant Malti Ras Tablets, With Gold and Pearl, Ayurvedic Remedy for Cold, Cough, Weakness, Energy Boost 10 No.s",
+        "category": "Tablets",
+        "price": 395.0,
+        "product_url": "https://www.snapdeal.com/product/goodcare-basant-malti-ras-tablet/627162472895",
+        "image_path": "product_data/product_images/product_0181.jpg"
+    },
+    {
+        "id": "product_0182",
+        "name": "Vedikroots Yograj gugglu Tablet 300 mg Pack Of 1",
+        "category": "Tablets",
+        "price": 189.0,
+        "product_url": "https://www.snapdeal.com/product/vedikroots-yograj-gugglu-tablet-300/629433511554",
+        "image_path": "product_data/product_images/product_0182.jpg"
+    },
+    {
+        "id": "product_0183",
+        "name": "DIVYA BMNE220363 Tablet 3 gm Pack of 3",
+        "category": "Tablets",
+        "price": 377.0,
+        "product_url": "https://www.snapdeal.com/product/divya-bmne220363-tablet-3-gm/659105995447",
+        "image_path": "product_data/product_images/product_0183.jpg"
+    },
+    {
+        "id": "product_0184",
+        "name": "Lama Basant Malti Ras With Gold Tablet 25 No.S Pack of 1",
+        "category": "Tablets",
+        "price": 514.0,
+        "product_url": "https://www.snapdeal.com/product/lama-basant-malti-ras-with/641488690564",
+        "image_path": "product_data/product_images/product_0184.jpg"
+    },
+    {
+        "id": "product_0185",
+        "name": "Lama Kanchnar Guggulu Tablet 30 Gm Pack of 3",
+        "category": "Tablets",
+        "price": 192.0,
+        "product_url": "https://www.snapdeal.com/product/lama-kanchnar-guggulu-tablet-30/677976057554",
+        "image_path": "product_data/product_images/product_0185.jpg"
+    },
+    {
+        "id": "product_0186",
+        "name": "Jeena Sikho Aarogya Vati | Ayurvedic Supplement For Immune Care, 60 Tablets",
+        "category": "Tablets",
+        "price": 998.0,
+        "product_url": "https://www.snapdeal.com/product/jeena-sikho-aarogya-vati-ayurvedic/647410931608",
+        "image_path": "product_data/product_images/product_0186.jpg"
+    },
+    {
+        "id": "product_0187",
+        "name": "Ayuvya I-Gain+ Weight Gainer And Bbf Oil Combo Helps Gain Weight & Improve Sagging Skin Combo(Pack of 2)",
+        "category": "Tablets",
+        "price": 522.0,
+        "product_url": "https://www.snapdeal.com/product/ayuvya-tablets-for-weight-gain/676614604620",
+        "image_path": "product_data/product_images/product_0187.jpg"
+    },
+    {
+        "id": "product_0188",
+        "name": "Baidyanath Chandramrit Ras Tablet 1 No.S Pack of 1",
+        "category": "Tablets",
+        "price": 169.0,
+        "product_url": "https://www.snapdeal.com/product/baidyanath-chandramrit-ras-tablet-1/670664884890",
+        "image_path": "product_data/product_images/product_0188.jpg"
+    },
+    {
+        "id": "product_0189",
+        "name": "Jeena Sikho Yashtimadhu Tablet | Uplifts Natural Immunity & Stamina, 60 Tablets",
+        "category": "Tablets",
+        "price": 199.0,
+        "product_url": "https://www.snapdeal.com/product/jeena-sikho-yashtimadhu-tablet-uplifts/686294721185",
+        "image_path": "product_data/product_images/product_0189.jpg"
+    },
+    {
+        "id": "product_0190",
+        "name": "ELEVO HERBALS Ultimate Liver Detox Tablet Tablet 15 no.s Pack Of 1",
+        "category": "Tablets",
+        "price": 328.0,
+        "product_url": "https://www.snapdeal.com/product/elevo-herbals-ultimate-liver-detox/631193699019",
+        "image_path": "product_data/product_images/product_0190.jpg"
+    },
+    {
+        "id": "product_0191",
+        "name": "Baidyanath Dimag Doshahari Tablet 50 No.S Pack of 1",
+        "category": "Tablets",
+        "price": 180.0,
+        "product_url": "https://www.snapdeal.com/product/baidyanath-dimag-doshahari-tablet-50/648177807452",
+        "image_path": "product_data/product_images/product_0191.jpg"
+    },
+    {
+        "id": "product_0192",
+        "name": "Baidyanath Kanchanar Guggulu Tablet 80 No.S Pack of 2",
+        "category": "Tablets",
+        "price": 209.0,
+        "product_url": "https://www.snapdeal.com/product/baidyanath-kanchanar-guggulu-tablet-80/643669339117",
+        "image_path": "product_data/product_images/product_0192.jpg"
+    },
+    {
+        "id": "product_0193",
+        "name": "Goodcare Kamini Vidrawan Ras Keshar Yukta Ayurveda Tablet-10Gms (40 Pills)",
+        "category": "Tablets",
+        "price": 1198.0,
+        "product_url": "https://www.snapdeal.com/product/baidyanath-kamini-vidravan-ras-10/646879795481",
+        "image_path": "product_data/product_images/product_0193.jpg"
+    },
+    {
+        "id": "product_0194",
+        "name": "Kofol Immunity Tablets With Goodness of Giloy Haldi Pippali Shunti For Immunity 60 Tabs (Pack of 1)",
+        "category": "Tablets",
+        "price": 99.0,
+        "product_url": "https://www.snapdeal.com/product/kofol-kofol-tablet-2-gm/631989560961",
+        "image_path": "product_data/product_images/product_0194.jpg"
+    },
+    {
+        "id": "product_0195",
+        "name": "Lama Kamini Vidrawan Ras Keshar Yukta 10 gm Tablet 10 gm Pack Of 1",
+        "category": "Tablets",
+        "price": 731.0,
+        "product_url": "https://www.snapdeal.com/product/lama-kamini-vidrawan-ras-keshar/687058427191",
+        "image_path": "product_data/product_images/product_0195.jpg"
+    },
+    {
+        "id": "product_0196",
+        "name": "Holyco Health Triphala Tablet 180 no.s Pack of 1",
+        "category": "Tablets",
+        "price": 184.0,
+        "product_url": "https://www.snapdeal.com/product/holyco-health-triphala-tablet-180/648280267356",
+        "image_path": "product_data/product_images/product_0196.jpg"
+    },
+    {
+        "id": "product_0197",
+        "name": "UMA AYURVEDA Ashwagandha_Ghan_Vati_40_Tab Tablet 1 kg Pack Of 1",
+        "category": "Tablets",
+        "price": 64.0,
+        "product_url": "https://www.snapdeal.com/product/uma-ayurveda-ashwagandhaghanvati40tab-tablet-1/679747866034",
+        "image_path": "product_data/product_images/product_0197.jpg"
+    },
+    {
+        "id": "product_0198",
+        "name": "Ayuvya i-Gain+ Tablets New and improved formula - The Ultimate Weight Gainer. Improves digestion and muscle mass. Ayurvedic 90 No.s",
+        "category": "Tablets",
+        "price": 375.0,
+        "product_url": "https://www.snapdeal.com/product/ayuvya-tablets-for-weight-gain/631757001652",
+        "image_path": "product_data/product_images/product_0198.jpg"
+    },
+    {
+        "id": "product_0199",
+        "name": "Ayuvya Magical Sleep Support Melatonin Effervescent Pills, Natural sleep solution with melatonin tablets. Sleep aid 30 Pills",
+        "category": "Tablets",
+        "price": 186.0,
+        "product_url": "https://www.snapdeal.com/product/ayuvya-magical-sleep-support-effervescent/658821444855",
+        "image_path": "product_data/product_images/product_0199.jpg"
+    },
+    {
+        "id": "product_0200",
+        "name": "OLIVEOPS P9 Black Headphones Bluetooth Bluetooth Headphone On Ear 4 Hours Playback Active Noise cancellation IPX4(Splash & Sweat Proof) Black",
+        "category": "Headphones",
+        "price": 437.0,
+        "product_url": "https://www.snapdeal.com/product/oliveops-p9-black-headphones-bluetooth/640189870868",
+        "image_path": "product_data/product_images/product_0200.jpg"
+    },
+    {
+        "id": "product_0201",
+        "name": "Shop To Shop Bluetooth Neckband Headphones In-the-ear Bluetooth Headset with Upto 12h Talktime Deep Bass - Silver",
+        "category": "Headphones",
+        "price": 261.0,
+        "product_url": "https://www.snapdeal.com/product/shop-to-shop-bluetooth-neckband/669615850020",
+        "image_path": "product_data/product_images/product_0201.jpg"
+    },
+    {
+        "id": "product_0202",
+        "name": "P9 Bluetooth Bluetooth Headphone On Ear 2 Hours Playback Active Noise cancellation IPX4(Splash & Sweat Proof) SILVER",
+        "category": "Headphones",
+        "price": 314.0,
+        "product_url": "https://www.snapdeal.com/product/p9-bluetooth-bluetooth-headphone-on/671322558789",
+        "image_path": "product_data/product_images/product_0202.jpg"
+    },
+    {
+        "id": "product_0203",
+        "name": "U7 True Wireless Bluetooth Headphone Upto 30Hr Playtime Fast Charging Dual Pairing, Gaming + Mini Bluetooth Speaker (Any Random Color) - Combo",
+        "category": "Headphones",
+        "price": 433.0,
+        "product_url": "https://www.snapdeal.com/product/u7-true-wireless-bluetooth-headphone/635973874457",
+        "image_path": "product_data/product_images/product_0203.jpg"
+    },
+    {
+        "id": "product_0204",
+        "name": "Tecsox TecPod Airbuds 16 Hr Bluetooth True Wireless Earbuds In Ear Bluetooth Headphone Powerfull Bass TWS White",
+        "category": "Headphones",
+        "price": 258.0,
+        "product_url": "https://www.snapdeal.com/product/tecsox-max-19-airbuds-in/675964390866",
+        "image_path": "product_data/product_images/product_0204.jpg"
+    },
+    {
+        "id": "product_0205",
+        "name": "Black Bullets MAGNET ON OFF' BLUETOOTH HEADPHONE AND SIRI FUNCTION 50 HOUR PLAYTIME NACKBEND",
+        "category": "Headphones",
+        "price": 307.0,
+        "product_url": "https://www.snapdeal.com/product/black-bullets-magnet-on-off/666962072259",
+        "image_path": "product_data/product_images/product_0205.jpg"
+    },
+    {
+        "id": "product_0206",
+        "name": "Tecsox Max10 Earbud In Ear Bluetooth Earphone 3 Hours Playback Bluetooth IPX4 (Water Resistant) Powerfull Bass TWS -Bluetooth Headphone V 5.1 Black",
+        "category": "Headphones",
+        "price": 281.0,
+        "product_url": "https://www.snapdeal.com/product/tecsox-max-10-tws-ear/649322202239",
+        "image_path": "product_data/product_images/product_0206.jpg"
+    },
+    {
+        "id": "product_0207",
+        "name": "Macjack Wave 200 Ear Buds Wireless With Mic Headphones/Earphones Black",
+        "category": "Headphones",
+        "price": 386.0,
+        "product_url": "https://www.snapdeal.com/product/macjack-wave-200-ear-buds/642955381900",
+        "image_path": "product_data/product_images/product_0207.jpg"
+    },
+    {
+        "id": "product_0208",
+        "name": "OLIVEOPS P9 Black Headphones Bluetooth Bluetooth Headphone Over Ear 4 Hours Playback Active Noise cancellation IPX4(Splash & Sweat Proof) Black",
+        "category": "Headphones",
+        "price": 437.0,
+        "product_url": "https://www.snapdeal.com/product/oliveops-p9-black-headphones-bluetooth/633257701533",
+        "image_path": "product_data/product_images/product_0208.jpg"
+    },
+    {
+        "id": "product_0209",
+        "name": "Tecsox Tecband Neo200 In Ear Bluetooth Earphone 30 Hours Playback Bluetooth IPX4(Splash Proof) Powerfull Bass Neckband-Bluetooth Headphone V 5.1 Black",
+        "category": "Headphones",
+        "price": 241.0,
+        "product_url": "https://www.snapdeal.com/product/tecsox-tecband-neo200-in-ear/653970295482",
+        "image_path": "product_data/product_images/product_0209.jpg"
+    },
+    {
+        "id": "product_0210",
+        "name": "New Model Wireless TWS Earbuds Mini Sport Stereo Portable Earphones & Headphones Wireless ANC Headset (Black)",
+        "category": "Headphones",
+        "price": 256.0,
+        "product_url": "https://www.snapdeal.com/product/new-model-wireless-tws-earbuds/677063145434",
+        "image_path": "product_data/product_images/product_0210.jpg"
+    },
+    {
+        "id": "product_0211",
+        "name": "STONX Viki Sunglass Bluetooth Bluetooth Headphone Over Ear 3 Hours Playback Active Noise cancellation IPX4(Splash & Sweat Proof) Black",
+        "category": "Headphones",
+        "price": 700.0,
+        "product_url": "https://www.snapdeal.com/product/stonx-viki-sunglass-bluetooth-bluetooth/661389729727",
+        "image_path": "product_data/product_images/product_0211.jpg"
+    },
+    {
+        "id": "product_0212",
+        "name": "OLIVEOPS P9 Silver Headphones Bluetooth Bluetooth Headphone On Ear 4 Hours Playback Active Noise cancellation IPX4(Splash & Sweat Proof) Silver",
+        "category": "Headphones",
+        "price": 437.0,
+        "product_url": "https://www.snapdeal.com/product/oliveops-p9-silver-headphones-bluetooth/678380614100",
+        "image_path": "product_data/product_images/product_0212.jpg"
+    },
+    {
+        "id": "product_0213",
+        "name": "COREGENIX U30 OWS Ear Wireless Earbuds with Display | ENC Mic for Crystal-Clear Calls | 60hr Playtime with Type-C Fast Charging | BT5.4 Gaming Bluetooth Earphones | Touch Control Sports Headphone",
+        "category": "Headphones",
+        "price": 690.0,
+        "product_url": "https://www.snapdeal.com/product/coregenix-u30-ows-ear-wireless/633117932494",
+        "image_path": "product_data/product_images/product_0213.jpg"
+    },
+    {
+        "id": "product_0214",
+        "name": "True Wireless Bluetooth Headphone with Upto 30Hr Playtime Fast Charging Dual Pairing, Gaming IPX7 (Water Resistant)",
+        "category": "Headphones",
+        "price": 352.0,
+        "product_url": "https://www.snapdeal.com/product/true-wireless-bluetooth-headphone-with/656919824676",
+        "image_path": "product_data/product_images/product_0214.jpg"
+    },
+    {
+        "id": "product_0215",
+        "name": "Blue Bullet MAGNET ON OFF' BLUETOOTH HEADPHONE AND SIRI FUNCTION 50 HOUR PLAYTIME NACKBEND",
+        "category": "Headphones",
+        "price": 307.0,
+        "product_url": "https://www.snapdeal.com/product/blue-bullet-magnet-on-off/680040108314",
+        "image_path": "product_data/product_images/product_0215.jpg"
+    },
+    {
+        "id": "product_0216",
+        "name": "OLIVEOPS P9 Silver Headphones Bluetooth Bluetooth Headphone On Ear 4 Hours Playback Active Noise cancellation IPX4(Splash & Sweat Proof) Silver",
+        "category": "Headphones",
+        "price": 437.0,
+        "product_url": "https://www.snapdeal.com/product/oliveops-p9-silver-headphones-bluetooth/665009156717",
+        "image_path": "product_data/product_images/product_0216.jpg"
+    },
+    {
+        "id": "product_0217",
+        "name": "60 Hours Red Playtime Bluetooth Wireless Neckband headphones Earphone",
+        "category": "Headphones",
+        "price": 271.0,
+        "product_url": "https://www.snapdeal.com/product/60-hours-red-playtime-bluetooth/656602143495",
+        "image_path": "product_data/product_images/product_0217.jpg"
+    },
+    {
+        "id": "product_0218",
+        "name": "HUG PUPPY Bluetooth headphones In Ear TWS Blue",
+        "category": "Headphones",
+        "price": 235.0,
+        "product_url": "https://www.snapdeal.com/product/hug-puppy-bluetooth-headphones-in/639016692351",
+        "image_path": "product_data/product_images/product_0218.jpg"
+    },
+    {
+        "id": "product_0219",
+        "name": "VERONIC U30 OWS Open Ear Wireless Earbuds with Display, ENC Mic for Crystal-Clear Calls, 60hr Playtime with Type-C Fast Charging, BT5.4 Gaming Bluetooth Earphones, Touch Control Sports Headphone",
+        "category": "Headphones",
+        "price": 655.0,
+        "product_url": "https://www.snapdeal.com/product/veronic-u30-ows-open-ear/686273922523",
+        "image_path": "product_data/product_images/product_0219.jpg"
+    },
+    {
+        "id": "product_0220",
+        "name": "Trueware Aqua Pure Insulated Green Plastic School Water Bottle 850 mL ( Set of 1 )",
+        "category": "Accessories",
+        "price": 134.0,
+        "product_url": "https://www.snapdeal.com/product/trueware-aqua-pure-brown-plastic/5188147404500710429",
+        "image_path": "product_data/product_images/product_0220.jpg"
+    },
+    {
+        "id": "product_0221",
+        "name": "Classic Essentials Spalsh Double Wall Insulated Water Bottle Blue Stainless Steel Water Bottle 700 mL ( Set of 1 )",
+        "category": "Accessories",
+        "price": 231.0,
+        "product_url": "https://www.snapdeal.com/product/classic-essentials-spalsh-flask-bottle/6917529684470089685",
+        "image_path": "product_data/product_images/product_0221.jpg"
+    },
+    {
+        "id": "product_0222",
+        "name": "Milton Gripper 750 Stainless Steel Water Bottle, 750 ml, Green",
+        "category": "Accessories",
+        "price": 380.0,
+        "product_url": "https://www.snapdeal.com/product/milton-black-sipper-water-bottle/8070451186739771031",
+        "image_path": "product_data/product_images/product_0222.jpg"
+    },
+    {
+        "id": "product_0223",
+        "name": "OFFYX H2O Hydration bottle for multipurpose use Aqua Green Plastic Water Bottle 1000 mL ( Set of 1 )",
+        "category": "Accessories",
+        "price": 137.0,
+        "product_url": "https://www.snapdeal.com/product/offyx-h2o-hydration-bottle-for/4899917036737702583",
+        "image_path": "product_data/product_images/product_0223.jpg"
+    },
+    {
+        "id": "product_0224",
+        "name": "PearlPet Sportskool-750ml Blue Stainless Steel Sipper Water Bottle 750 mL ( Set of 1 )",
+        "category": "Accessories",
+        "price": 198.0,
+        "product_url": "https://www.snapdeal.com/product/pearlpet-sportskool750ml-red-stainless-steel/6917529705889091701",
+        "image_path": "product_data/product_images/product_0224.jpg"
+    },
+    {
+        "id": "product_0225",
+        "name": "Milton Hector 1000 Pet Water Bottle 1 Piece Grey Plastic Water Bottle 1000 mL ( Set of 1 )",
+        "category": "Accessories",
+        "price": 204.0,
+        "product_url": "https://www.snapdeal.com/product/milton-brown-water-bottle-1000/5764608207862422962",
+        "image_path": "product_data/product_images/product_0225.jpg"
+    },
+    {
+        "id": "product_0226",
+        "name": "Purex. Stainless Steel Oil Dispenser 1 ltr Silver Stainless Steel Water Bottle 1000 mL ( Set of 1 )",
+        "category": "Accessories",
+        "price": 231.0,
+        "product_url": "https://www.snapdeal.com/product/purex-uv-printed-white-stainless/6917529652121923534",
+        "image_path": "product_data/product_images/product_0226.jpg"
+    },
+    {
+        "id": "product_0227",
+        "name": "Milton - SUPER 1000,SKY BLUE Sky Blue Water Bottle 1000 mL ( Set of 1 )",
+        "category": "Accessories",
+        "price": 355.0,
+        "product_url": "https://www.snapdeal.com/product/milton-super-1000-silver-water/5764608173171165105",
+        "image_path": "product_data/product_images/product_0227.jpg"
+    },
+    {
+        "id": "product_0228",
+        "name": "viDixn Double Layer Insulated Hot & Cold Water Bottle Blue Stainless Steel Water Bottle 800 mL ( Set of 1 )",
+        "category": "Accessories",
+        "price": 317.0,
+        "product_url": "https://www.snapdeal.com/product/vidixn-double-layer-insulated-hot/6917529665864012607",
+        "image_path": "product_data/product_images/product_0228.jpg"
+    },
+    {
+        "id": "product_0229",
+        "name": "viDixn Double Layer Insulated Hot & Cold Water Bottle Blue Stainless Steel Water Bottle 1000 mL ( Set of 1 )",
+        "category": "Accessories",
+        "price": 354.0,
+        "product_url": "https://www.snapdeal.com/product/vidixn-double-layer-insulated-hot/6917529670491182245",
+        "image_path": "product_data/product_images/product_0229.jpg"
+    },
+    {
+        "id": "product_0230",
+        "name": "Milton - SUPER 500,BLACK Black Water Bottle 475 mL ( Set of 1 )",
+        "category": "Accessories",
+        "price": 286.0,
+        "product_url": "https://www.snapdeal.com/product/milton-super-500-silver-water/5188147399338344611",
+        "image_path": "product_data/product_images/product_0230.jpg"
+    },
+    {
+        "id": "product_0231",
+        "name": "viDixn Insulated Leak-Proof Hot & Cold Water Bottle Black Stainless Steel Water Bottle 800 mL ( Set of 1 )",
+        "category": "Accessories",
+        "price": 464.0,
+        "product_url": "https://www.snapdeal.com/product/vidixn-insulated-leakproof-hot-cold/5764608195881218799",
+        "image_path": "product_data/product_images/product_0231.jpg"
+    },
+    {
+        "id": "product_0232",
+        "name": "Milton Atlantis 400 Thermosteel Insulated Water Bottle, 350 ml, Purple | Hot and Cold | Leak Proof | Office Bottle | Sports | Home | Kitchen | Hiking | Treking | Travel | Easy To Carry | Rust Proof",
+        "category": "Accessories",
+        "price": 566.0,
+        "product_url": "https://www.snapdeal.com/product/milton-atlantis-400-greennc-green/6917529652981437586",
+        "image_path": "product_data/product_images/product_0232.jpg"
+    },
+    {
+        "id": "product_0233",
+        "name": "Purex. Curvy Blue Stainless Steel Fridge Water Bottle 950 mL ( Set of 1 )",
+        "category": "Accessories",
+        "price": 221.0,
+        "product_url": "https://www.snapdeal.com/product/purex-curvy-red-stainless-steel/6917529686975527008",
+        "image_path": "product_data/product_images/product_0233.jpg"
+    },
+    {
+        "id": "product_0234",
+        "name": "Milton SHINE 1000 Black Water Bottle 900 ml (Set of 1)",
+        "category": "Accessories",
+        "price": 389.0,
+        "product_url": "https://www.snapdeal.com/product/milton-silver-water-bottle-900/5188147452022214995",
+        "image_path": "product_data/product_images/product_0234.jpg"
+    },
+    {
+        "id": "product_0235",
+        "name": "Trueware Aqua Bliss Insulated Brown Plastic School Water Bottle 850 mL ( Set of 1 )",
+        "category": "Accessories",
+        "price": 134.0,
+        "product_url": "https://www.snapdeal.com/product/trueware-aqua-bliss-insulated-blue/5188147410424476774",
+        "image_path": "product_data/product_images/product_0235.jpg"
+    },
+    {
+        "id": "product_0236",
+        "name": "Stysol Frosty Water Bottel  Multicolor Plastic Fridge Water Bottle 1005 mL ( 6 )",
+        "category": "Accessories",
+        "price": 266.0,
+        "product_url": "https://www.snapdeal.com/product/stysol-frosty-water-bottel-multicolor/670712768554",
+        "image_path": "product_data/product_images/product_0236.jpg"
+    },
+    {
+        "id": "product_0237",
+        "name": "Milton Steel Sprint 600 Insulated Inner Stainless Steel Water Bottle, 510 ml, Pink | Hot or Cold | Easy Grip | Leak Proof | Kids School Bottle | Office | Gym | Hiking | Treking | Travel Bottle",
+        "category": "Accessories",
+        "price": 377.0,
+        "product_url": "https://www.snapdeal.com/product/milton-steel-sprint-600blue-blue/8070451184612493634",
+        "image_path": "product_data/product_images/product_0237.jpg"
+    },
+    {
+        "id": "product_0238",
+        "name": "MANDEV Transparent Water Bottle Multicolour Plastic Water Bottle 2000 mL ( 3 )",
+        "category": "Accessories",
+        "price": 270.0,
+        "product_url": "https://www.snapdeal.com/product/mandev-transparent-water-bottle-multicolour/627074270378",
+        "image_path": "product_data/product_images/product_0238.jpg"
+    },
+    {
+        "id": "product_0239",
+        "name": "Stysol Frosty Water Bottel  Multicolor Plastic Fridge Water Bottle 1005 mL ( 6 )",
+        "category": "Accessories",
+        "price": 224.0,
+        "product_url": "https://www.snapdeal.com/product/stysol-frosty-water-bottel-multicolor/667254628110",
+        "image_path": "product_data/product_images/product_0239.jpg"
     }
 ]
