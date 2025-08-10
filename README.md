@@ -130,6 +130,4 @@ Expand Scraper: Add more e-commerce sites (e.g., Ajio, Myntra) and improve error
 
 Fine-Tune the Model: For higher accuracy, the MobileNetV2 model could be fine-tuned on a larger, custom dataset of product images.
 
-Admin Interface: Build an "Add Product" page directly into the app to allow for easy manual additions to the database without running the scraper.
-
-User Accounts & Favorites: Add user authentication to allow users to save their favorite items.
+Admin Interface: Build an "Add Product" page directly into the app to
