@@ -1,8 +1,0 @@
-streamlit
-tensorflow
-scikit-learn
-numpy
-Pillow
-tqdm
-requests
-beautifulsoup4
