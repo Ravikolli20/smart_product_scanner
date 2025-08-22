@@ -6,3 +6,6 @@ Pillow
 tqdm
 requests
 beautifulsoup4
+opencv-python-headless
+ultralytics
+torch

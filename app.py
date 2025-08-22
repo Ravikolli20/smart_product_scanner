@@ -1,16 +1,16 @@
 # app.py
-# Smart Product Scanner — working Light/Dark toggle
+# Smart Product Scanner — with Object Detection
 import os
 import json
 import base64
 import numpy as np
-from PIL import Image
+from PIL import Image, ImageDraw
 import streamlit as st
 
-# Your project modules (unchanged)
+# Your project modules
 from config import METADATA_FILE, EMBEDDINGS_FILE, NUM_SIMILAR_PRODUCTS
 from data_setup import generate_mock_dataset, generate_embeddings
-from feature_extractor import load_model, extract_features
+from feature_extractor import load_mobilenet_model, load_yolo_model, extract_features
 from similarity import find_similar_products
 
 
@@ -36,7 +36,7 @@ def _get_theme_values(theme: str):
             "gradient_bg": "linear-gradient(90deg, #f8f9fa, #eef2f3)",
             "text_color": "#0b1321",
             "card_bg": "#ffffff",
-            "muted_text": "#57606a",
+            "muted_text": "#08ecec",
             "accent": "#2575fc",
             "hero_gradient": "linear-gradient(90deg, #6a11cb, #2575fc)"
         }
@@ -62,13 +62,6 @@ def inject_css(theme_vals: dict):
         border-radius: 12px;
         margin-bottom: 1.5rem;
     }}
-    .card {{
-        background-color: {theme_vals['card_bg']} !important;
-        color: {theme_vals['text_color']} !important;
-        border-radius: 12px;
-        padding: 1rem;
-        box-shadow: 0 6px 18px rgba(2,6,23,0.10) !important;
-    }}
     .product-card {{
         background-color: {theme_vals['card_bg']} !important;
         border-radius: 12px;
@@ -76,7 +69,7 @@ def inject_css(theme_vals: dict):
         box-shadow: 0 6px 18px rgba(2,6,23,0.08) !important;
         text-align: center;
         transition: transform 0.18s ease, box-shadow 0.18s ease;
-        height: 100%; /* Ensures cards in a row have the same height */
+        height: 100%;
     }}
     .product-card:hover {{
         transform: translateY(-6px) scale(1.02);
@@ -112,9 +105,6 @@ def inject_css(theme_vals: dict):
     .muted {{
         color: {theme_vals['muted_text']} !important;
     }}
-    .stMarkdown h1, .stMarkdown h2, .stMarkdown h3 {{
-        color: {theme_vals['text_color']} !important;
-    }}
     </style>
     """
     st.markdown(css, unsafe_allow_html=True)
@@ -130,14 +120,13 @@ def main():
 
     with st.sidebar:
         st.markdown("### ⚙️ Settings")
-        st.radio("Theme", options=["Light", "Dark"], key="theme",
-                 index=0 if st.session_state["theme"] == "Light" else 1)
+        st.radio("Theme", options=["Light", "Dark"], key="theme")
         st.markdown("---")
         st.markdown("### 📷 Select Input Method")
         uploaded_file = st.file_uploader("Upload Image", type=["jpg", "jpeg", "png"])
         if st.button("📸 Take a Photo"):
             st.session_state.show_camera = not st.session_state.show_camera
-
+        
         camera_input = None
         if st.session_state.show_camera:
             camera_input = st.camera_input("Capture Product Image", label_visibility="collapsed")
@@ -150,23 +139,19 @@ def main():
     st.markdown(f"""
     <div class="hero">
         <h1>🛍️ Smart Product Scanner</h1>
-        <p class="muted">Upload an image or take a photo to instantly find visually similar products</p>
+        <p class="muted">Find similar products by their appearance</p>
     </div>
     """, unsafe_allow_html=True)
 
-    model = load_model()
-    # Check if the database exists, if not, try to run the scraper, if that fails, create a mock dataset.
+    # --- Load all models ---
+    mobilenet_model = load_mobilenet_model()
+    yolo_model = load_yolo_model()
+    
     if not os.path.exists(METADATA_FILE):
-        try:
-            from scraper import scrape_products
-            st.info("No database found. Running web scraper to build one...")
-            scrape_products()
-        except Exception as e:
-            st.warning(f"Scraper failed: {e}. Creating a small mock dataset as a fallback.")
-            generate_mock_dataset()
-
+        generate_mock_dataset()
     if not os.path.exists(EMBEDDINGS_FILE):
-        generate_embeddings(model)
+        # Pass the MobileNet model to the embedding generator
+        generate_embeddings(mobilenet_model)
 
     all_features = np.load(EMBEDDINGS_FILE)
     with open(METADATA_FILE, "r") as f:
@@ -175,18 +160,27 @@ def main():
     input_image = uploaded_file or camera_input
 
     if input_image is not None:
-        st.session_state.show_camera = False # Hide camera after image is provided
+        st.session_state.show_camera = False
+        
+        pil_image = Image.open(input_image).convert("RGB")
 
-        st.markdown('<div class="query-card"><h3>📌 Your Query Image</h3>', unsafe_allow_html=True)
-        query_img = Image.open(input_image)
-        st.image(query_img, width=320)
-        st.markdown("</div>", unsafe_allow_html=True)
-
-        st.markdown("---")
-        with st.spinner("🔍 Analyzing image and finding similar products..."):
-            input_features = extract_features(model, input_image)
+        with st.spinner("🔍 Detecting object and finding matches..."):
+            # --- Pass both models to the feature extractor ---
+            input_features, bounding_box = extract_features(mobilenet_model, yolo_model, pil_image)
             similar_products = find_similar_products(input_features, all_features, product_metadata)
 
+            # --- Display the query image with the detected bounding box ---
+            st.markdown('<div class="query-card"><h3>📌 Your Query Image</h3>', unsafe_allow_html=True)
+            if bounding_box:
+                # Draw the bounding box on the image
+                draw = ImageDraw.Draw(pil_image)
+                draw.rectangle(bounding_box, outline=theme_vals['accent'], width=5)
+                st.image(pil_image, width=320, caption="Main product detected!")
+            else:
+                st.image(pil_image, width=320, caption="No specific object detected, analyzing full image.")
+            st.markdown("</div>", unsafe_allow_html=True)
+
+            st.markdown("---")
             st.subheader("✨ Top Matches")
             cols = st.columns(NUM_SIMILAR_PRODUCTS)
             for i, (product, score) in enumerate(similar_products[:NUM_SIMILAR_PRODUCTS]):
@@ -198,7 +192,7 @@ def main():
                             <div class="product-card">
                                 <img src="data:image/jpeg;base64,{img_b64}" class="product-image" />
                                 <div class="product-title">{product['name']}</div>
-                                <div class="product-price">₹{product['price']:.2f}</div>
+                                <div class="product-price">${product['price']:.2f}</div>
                                 <progress value="{score:.4f}" max="1" style="width:100%"></progress>
                                 <small class="muted">Similarity: {score:.2%}</small>
                             </div>
@@ -208,9 +202,6 @@ def main():
                     )
     else:
         st.info("👆 Upload an image or use the camera to begin your search.")
-        st.markdown("<p style='text-align:center' class='muted'>Your perfect product match is one photo away.</p>",
-                      unsafe_allow_html=True)
-
 
 if __name__ == "__main__":
     main()
